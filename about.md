@@ -4,4 +4,6 @@
 
 I am a master's candidate in the Department of Computer and Information Science at the University of Pennsylvania's School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research.
 
-https://github.com/jmaasch/jmaasch.github.io/files/3974965/cv_10_2019.pdf
+<object data="your_url_to_pdf" type="application/pdf">
+    <iframe src="https://docs.google.com/viewer?url=https://github.com/jmaasch/jmaasch.github.io/files/3974965/cv_10_2019.pdf&embedded=true"></iframe>
+</object>
