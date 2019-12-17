@@ -1,17 +1,8 @@
----
-title: Help Center
-navigation:
-  - section: Help Center
-  - document: overview_doc
-    label: Overview
-  - document: data_sources_doc
-    label: Data Sources
-  - document: data_definitions_doc
-    label: Data Definitions
-  - document: faq_doc
-    label: FAQ
-  - document: release_notes_doc
-    label: Release Notes
----
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div>
 
 # JACQUELINE R.M.A. MAASCH
