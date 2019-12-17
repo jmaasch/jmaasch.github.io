@@ -2,7 +2,7 @@
 
 ### 2019
 
-Pilotte N, **Maasch J**, Easton AV, Dahlstrom E, Nutman TB, Williams SA. Targeting a highly repeated embryonic DNA sequence for improved real-time PCR-based detection of \textit{Ascaris} infection in human stool. *PLOS Neglected Tropical Diseases 13*(7): e0007593.
+Pilotte N, **Maasch J**, Easton AV, Dahlstrom E, Nutman TB, Williams SA. Targeting a highly repeated embryonic DNA sequence for improved real-time PCR-based detection of *Ascaris* infection in human stool. *PLOS Neglected Tropical Diseases 13*(7): e0007593.
 <b><a href="https://doi.org/10.1371/journal.pntd.0007593" style="color: rgb(0,0,0)"><font color="000000">VIEW</font></a></b> 
 
 # PRE-PRINTS
@@ -24,4 +24,4 @@ Benjamin-Chung J, Pilotte N, Ercumen A, Grant JR, **Maasch J**, Gonzalez AM, Abr
 
 ### 2018
 
-Pilotte N (presenter), **Maasch J**, Easton AV, Dahlstrom E, Nutman TB, Williams SA. Improved molecular detection of \textit{Ascaris lumbricoides} utilizing an embryonic sequence for assay design. *Proceedings from the Annual Meeting of the American Society of Tropical Medicine and Hygiene*. New Orleans, LA.
+Pilotte N (presenter), **Maasch J**, Easton AV, Dahlstrom E, Nutman TB, Williams SA. Improved molecular detection of *Ascaris lumbricoides* utilizing an embryonic sequence for assay design. *Proceedings from the Annual Meeting of the American Society of Tropical Medicine and Hygiene*. New Orleans, LA.
