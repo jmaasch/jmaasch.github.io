@@ -1,8 +1,8 @@
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-</div>
-
 # JACQUELINE R.M.A. MAASCH
+
+<div class="topnav">
+  <a class="active" href="#home">HOME</a>
+  <a href="#about">ABOUT</a>
+  <a href="#contact">PUBLICATIONS + PRESENTATIONS</a>
+  <a href="#contact">CONTACT</a>
+</div>
