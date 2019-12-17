@@ -7,4 +7,4 @@
 
 # JACQUELINE  R.M.A.  MAASCH
 
-<img width="538" alt="Screen Shot 2019-05-16 at 6 29 30 PM" src="https://user-images.githubusercontent.com/50045763/71037837-83935e80-20ee-11ea-9acf-be4ffd846332.png">
+<img src="https://user-images.githubusercontent.com/50045763/71037837-83935e80-20ee-11ea-9acf-be4ffd846332.png" align="center"/>
