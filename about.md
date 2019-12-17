@@ -4,6 +4,15 @@
 
 I am a master's candidate in the Department of Computer and Information Science at the University of Pennsylvania's School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research.
 
-https://www.researchgate.net/profile/Jacqueline_Maasch
-www.linkedin.com/in/jmaasch
-https://github.com/jmaasch
+
+
+<div class="SOCIAL">
+  <a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(0,0,0)"><font color="000000">ResearchGate</font></a>  
+  <a href="www.linkedin.com/in/jmaasch" style="color: rgb(0,0,0)"><font color="000000">LinkedIn</font></a> 
+  <a href="https://github.com/jmaasch" style="color: rgb(0,0,0)"><font color="000000">GitHub</font></a> 
+</div>
+
+
+
+
+
