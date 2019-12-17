@@ -7,8 +7,8 @@ I am a master's candidate in the Department of Computer and Information Science 
 
 
 <div class="SOCIAL">
-  <a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(0,0,0)"><font color="000000">ResearchGate</font></a>  
-  <a href="www.linkedin.com/in/jmaasch" style="color: rgb(0,0,0)"><font color="000000">LinkedIn</font></a> 
+  <a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(0,0,0)"><font color="000000">ResearchGate</font></a><br>
+  <a href="www.linkedin.com/in/jmaasch" style="color: rgb(0,0,0)"><font color="000000">LinkedIn</font></a><br>
   <a href="https://github.com/jmaasch" style="color: rgb(0,0,0)"><font color="000000">GitHub</font></a> 
 </div>
 
