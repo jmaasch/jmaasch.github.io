@@ -10,11 +10,10 @@ Prior to joining Penn Engineering, I was a life science professional with experi
 
 <div class="SOCIAL">
   <b><a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(0,0,0)"><font color="000000">ResearchGate</font></a><br>
+  <a href="https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao" style="color: rgb(0,0,0)"><font color="000000">Google Scholar</font></a>
   <a href="www.linkedin.com/in/jmaasch" style="color: rgb(0,0,0)"><font color="000000">LinkedIn</font></a><br>
   <a href="https://github.com/jmaasch" style="color: rgb(0,0,0)"><font color="000000">GitHub</font></a></b>
 </div>
-
-
 
 
 
