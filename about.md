@@ -7,3 +7,5 @@ I am a master's candidate in the Department of Computer and Information Science 
 <object data="https://github.com/jmaasch/jmaasch.github.io/files/3974965/cv_10_2019.pdf" type="application/pdf">
     <iframe src="https://docs.google.com/viewer?url=https://github.com/jmaasch/jmaasch.github.io/files/3974965/cv_10_2019.pdf&embedded=true"></iframe>
 </object>
+
+<iframe id="portrait" style="border:1px solid #666CCC" title="PDF in an i-Frame" src="https://github.com/jmaasch/jmaasch.github.io/files/3974965/cv_10_2019.pdf" frameborder="1" scrolling="auto" height="1100" width="850" ></iframe>
