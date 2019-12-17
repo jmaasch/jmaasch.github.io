@@ -4,5 +4,5 @@
   <a class="active" href="#home">HOME</a>
   <a href="#about">ABOUT</a>
   <a href="#contact">PUBLICATIONS + PRESENTATIONS</a>
-  <a href="#contact"><font color="black">CONTACT</a>
+  <a href="#contact" style="color: rgb(0,255,0)"><font color="black">CONTACT</font></a>
 </div>
