@@ -5,7 +5,7 @@
   <a href="cv.html" style="color: rgb(0,0,0)"><font color="000000">CURRICULUM VITAE</font></a> 
 </div>
 
-# PUBLICATIONS
+## PUBLICATIONS
 
 ### 2019
 
@@ -26,7 +26,7 @@ Hasegawa M, Pilotte N, Kikuchi M, Means AR, Papaiakovou M, Gonzalez AM, **Maasch
 
 **Maasch J**, Arzika AM, Cook C, Lebas E, Pilotte N, Grant JR, Williams SA, Keenan JD, Lietman TM, Aiemjoy K. Molecular detection of intestinal helminths and protozoa among young children in Dosso Region, Niger. Submitted: *American Journal of Tropical Medicine and Hygiene.*
 
-# POSTERS + PRESENTATIONS
+## POSTERS + PRESENTATIONS
 
 ### 2019
 
