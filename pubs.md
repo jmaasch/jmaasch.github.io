@@ -30,8 +30,8 @@ Hasegawa M, Pilotte N, Kikuchi M, Means AR, Papaiakovou M, Gonzalez AM, **Maasch
 
 ### 2019
 
-**Maasch J**, Arzika AM, Cook C, Lebas E, Pilotte N, Grant JR, Williams SA, Keenan JD, Lietman TM, Aiemjoy K (presenter). Rectal swabs for molecular detection of *Giardia duodenalis*. *Proceedings from the Annual Meeting of the American Society of Tropical Medicine and Hygiene*. National Harbor, MD.
+**Maasch J**, Arzika AM, Cook C, Lebas E, Pilotte N, Grant JR, Williams SA, Keenan JD, Lietman TM, Aiemjoy K (presenter). Rectal swabs for molecular detection of *Giardia duodenalis*. *Proceedings from the Annual Meeting of the American Society of Tropical Medicine and Hygiene*. National Harbor, MD, USA.
 
 ### 2018
 
-Pilotte N (presenter), **Maasch J**, Easton AV, Dahlstrom E, Nutman TB, Williams SA. Improved molecular detection of *Ascaris lumbricoides* utilizing an embryonic sequence for assay design. *Proceedings from the Annual Meeting of the American Society of Tropical Medicine and Hygiene*. New Orleans, LA.
+Pilotte N (presenter), **Maasch J**, Easton AV, Dahlstrom E, Nutman TB, Williams SA. Improved molecular detection of *Ascaris lumbricoides* utilizing an embryonic sequence for assay design. *Proceedings from the Annual Meeting of the American Society of Tropical Medicine and Hygiene*. New Orleans, LA, USA.
