@@ -7,8 +7,8 @@
 
 # CURRICULUM VITAE
 
-### Short-form resume.
+### Short-form resume
  <a href="resume_11_2019.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW.</font></a>
 
-### Long-form CV.
+### Long-form CV
  <a href="cv_10_2019.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW.</font></a>
