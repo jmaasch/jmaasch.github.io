@@ -8,7 +8,7 @@
 # CURRICULUM VITAE
 
 ### Short-form resume.
-Coming soon.
+ <a href="https://nbviewer.jupyter.org/github/jmaasch/jmaasch.github.io/blob/master/resume_11_2019.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW.</font></a>
 
 ### Long-form CV.
  <a href="https://nbviewer.jupyter.org/github/jmaasch/jmaasch.github.io/blob/master/cv_10_2019.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW.</font></a>
