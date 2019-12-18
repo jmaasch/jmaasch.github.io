@@ -8,12 +8,7 @@
 # CURRICULUM VITAE
 
 ### Short-form resume.
-Coming soon.
+ <a href="resume_11_2019.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW.</font></a>
 
 ### Long-form CV.
  <a href="https://nbviewer.jupyter.org/github/jmaasch/jmaasch.github.io/blob/master/cv_10_2019.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW.</font></a>
- 
- 
- <object data="cv_10_2019.pdf" type="application/pdf" width="100%" height="100%">
-  <p>Alternative text - include a link <a href="cv_10_2019.pdf">to the PDF!</a></p>
-</object>
