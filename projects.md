@@ -13,9 +13,7 @@
 
 R Color Palettes Based on the Works of Sanzo Wada.
 
-|   |   |
-|:-------------------------:|:-------------------------:|
-|![bar1](https://github.com/jmaasch/jmaasch.github.io/blob/master/images/sanzo1.png)|![bar2](https://github.com/jmaasch/jmaasch.github.io/blob/master/images/sanzo2.png)|
+<img src="https://github.com/jmaasch/jmaasch.github.io/blob/master/images/sanzo1.png" width="850" align="middle"/>
 
 <b><a href="https://github.com/jmaasch/sanzo" style="color: rgb(0,0,0)"><font color="000000">https://github.com/jmaasch/sanzo</font></a></b>
 
