@@ -18,7 +18,3 @@
 <img src="https://user-images.githubusercontent.com/50045763/71391245-64ef0500-25d1-11ea-9505-c9c6e57500ef.png" width="410" align="left"/>
 <br />
 <br />
- 
-## Java
-
-Coming soon.
