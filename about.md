@@ -13,9 +13,6 @@ I am a master's candidate in the Department of Computer and Information Science 
 
 Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I have worked and volunteered in biology labs in the US, France, Uganda, Bangladesh, and Bulgaria.
 
-I am interested in the genetic, microbiological, and social determinants of disease, and how molecular and computational methods can be used to improve human health.
-
-
 
 <div class="SOCIAL">
   <b><a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(0,0,0)"><font color="000000">ResearchGate</font></a><br>
