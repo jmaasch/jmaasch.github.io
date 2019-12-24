@@ -11,15 +11,13 @@
 
 ### Packages
 
-#### ```sanzo```
+## ```sanzo```
 
 R Color Palettes Based on the Works of Sanzo Wada.
-https://github.com/jmaasch/sanzo/blob/master/dev/demos4/Unknown-7.png
 
 |   |   |
 |:-------------------------:|:-------------------------:|
-|![scatter1](https://github.com/jmaasch/sanzo/blob/master/dev/ggplot2demos/scatter1.png)|![scatter2](https://github.com/jmaasch/sanzo/blob/master/dev/ggplot2demos/scatter2.png)|
-|![scatter3](https://github.com/jmaasch/sanzo/blob/master/dev/ggplot2demos/scatter3.png)|![scatter4](https://github.com/jmaasch/sanzo/blob/master/dev/ggplot2demos/scatter5.png)|
+|![bar1](https://github.com/jmaasch/sanzo/blob/master/dev/demos4/Unknown-7.png)|![bar2](https://github.com/jmaasch/sanzo/blob/master/dev/demos4/Unknown-4.png)|
 
 <a href="https://github.com/jmaasch/sanzo" style="color: rgb(0,0,0)"><font color="000000">https://github.com/jmaasch/sanzo</font></a>
 
