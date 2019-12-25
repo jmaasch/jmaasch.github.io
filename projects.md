@@ -11,6 +11,11 @@
 
 ### ```sanzo``` R Color Palettes Based on the Works of Sanzo Wada.
 
+|   |   |
+|:-------------------------:|:-------------------------:|
+|**Combination 205, ```alpha = 3/4.```**|**Combination 194, ```alpha = 3/4.```**|
+|![scatter1](https://user-images.githubusercontent.com/50045763/71449467-19e10900-271b-11ea-8740-3303b76633ff.png)|![scatter2](https://user-images.githubusercontent.com/50045763/71449467-19e10900-271b-11ea-8740-3303b76633ff.png)|
+
 <a href="https://github.com/jmaasch/sanzo" style="color: rgb(0,0,0)"><font color="000000">https://github.com/jmaasch/sanzo</font></a>
 
 <img src="https://user-images.githubusercontent.com/50045763/71449467-19e10900-271b-11ea-8740-3303b76633ff.png" width="410" align="left"/>
