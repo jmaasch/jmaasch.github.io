@@ -13,8 +13,8 @@
 
 <a href="https://github.com/jmaasch/sanzo" style="color: rgb(0,0,0)"><font color="000000">https://github.com/jmaasch/sanzo</font></a>
 
-<img src="https://user-images.githubusercontent.com/50045763/71391244-64ef0500-25d1-11ea-88eb-fff0a54c020c.png" width="410" align="left"/>
+<img src="https://user-images.githubusercontent.com/50045763/71449467-19e10900-271b-11ea-8740-3303b76633ff.png" width="410" align="left"/>
 
-<img src="https://user-images.githubusercontent.com/50045763/71449420-29ac1d80-271a-11ea-96df-eef95fda7211.png" width="410" align="left"/>
+<img src="https://user-images.githubusercontent.com/50045763/71449473-1c436300-271b-11ea-8f80-ad3275f771ac.png" width="410" align="left"/>
 <br />
 <br />
