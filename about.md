@@ -11,7 +11,7 @@
 
 I am a master's candidate in the Department of Computer and Information Science at the University of Pennsylvania's School of Engineering and Applied Science.
 
-Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I have worked and volunteered in biology labs in the US, France, Uganda, Bangladesh, and Bulgaria.
+Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research.
 
 
 <div class="SOCIAL">
