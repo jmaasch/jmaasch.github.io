@@ -15,5 +15,4 @@ Inspired by the art and color research of Sanzo Wada (1883-1967), his <a href="h
 
 <a href="https://github.com/jmaasch/sanzo/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">github.com/jmaasch/sanzo/</font></a>
 
-<img src="https://user-images.githubusercontent.com/50045763/71449579-865d0780-271d-11ea-9445-c07711d35cc2.png" width="410" align="right"/>
-<img src="https://user-images.githubusercontent.com/50045763/71391244-64ef0500-25d1-11ea-88eb-fff0a54c020c.png" width="410" align="right"/>
+<img src="https://user-images.githubusercontent.com/50045763/71491704-3440e280-2800-11ea-9a05-57448c9cb71c.png" width="410" align="middle"/>
