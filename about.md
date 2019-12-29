@@ -13,7 +13,19 @@ I am a master's candidate in the Department of Computer and Information Science 
 
 Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research.
 
+### Interests
 
+Human health and disease, computation for social good, molecular genetics, the microbial ecology of the human body, the art and science of data visualization.
+
+### Languages
+
+By experience level / frequency of use.
+
+**Primary:** R, Java, LaTeX
+**Secondary:** JavaScript, C
+**Tertiary:** Assembly
+
+### Social
 <div class="SOCIAL">
   <b><a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(0,0,0)"><font color="000000">ResearchGate</font></a><br>
   <a href="https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao" style="color: rgb(0,0,0)"><font color="000000">Google Scholar</font></a><br>
