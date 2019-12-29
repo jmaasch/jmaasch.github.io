@@ -17,7 +17,9 @@ Human health and disease, computation for social good, molecular genetics, the m
 
 ### Languages
 
-*FREQUENT USE* &nbsp; R – Java – LaTeX &nbsp; | &nbsp; *ACTIVELY LEARNING* &nbsp; JavaScript – C – Assembly
+*FREQUENT USE* &nbsp;&nbsp; R &nbsp;–&nbsp; Java &nbsp;–&nbsp; LaTeX
+
+*ACTIVELY LEARNING* &nbsp;&nbsp; JavaScript &nbsp;–&nbsp; C &nbsp;–&nbsp; Assembly
 
 ### Social
 <div class="SOCIAL">
