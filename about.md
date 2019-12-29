@@ -19,11 +19,7 @@ Human health and disease, computation for social good, molecular genetics, the m
 
 By experience level and frequency of use:
 
-**Primary** R, Java, LaTeX
-
-**Secondary** JavaScript, C
-
-**Tertiary** Assembly
+**Primary** R, Java, LaTeX | **Secondary** JavaScript, C | **Tertiary** Assembly
 
 ### Social
 <div class="SOCIAL">
