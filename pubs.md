@@ -16,11 +16,10 @@ Pilotte N, **Maasch J**, Easton AV, Dahlstrom E, Nutman TB, Williams SA. Targeti
 
 ### 2019
 
+Hasegawa M, Pilotte N, Kikuchi M, Means AR, Papaiakovou M, Gonzalez AM, **Maasch J**, Ikuno H, Sunahara T, Ásbjörnsdóttir K, Walson JL, Williams SA, Hamano S. What does soil-transmitted helminth elimination look like? Results from a targeted molecular detection survey in Japan. Final acceptance 30 December 2019, publication forthcoming: *Parasites and Vectors.*
+
 Benjamin-Chung J, Pilotte N, Ercumen A, Grant JR, **Maasch J**, Gonzalez AM, Abrams BP, Ester AC, Arnold BF, Rahman M, Haque R, Hubbard AE, Luby SP, Williams S, Colford JM. Comparison of multi-parallel qPCR and Kato-Katz for detection of soil-transmitted helminth infection among children in rural Bangladesh. Under review: *PLOS Neglected Tropical Diseases.*
 <b><a href="https://www.researchgate.net/publication/333020311_Comparison_of_multi-parallel_qPCR_and_Kato-Katz_for_detection_of_soil-transmitted_helminth_infection_among_children_in_rural_Bangladesh" style="color: rgb(0,0,0)"><font color="000000">VIEW</font></a></b> 
-
-
-Hasegawa M, Pilotte N, Kikuchi M, Means AR, Papaiakovou M, Gonzalez AM, **Maasch J**, Ikuno H, Sunahara T, Ásbjörnsdóttir K, Walson JL, Williams SA, Hamano S. What does soil-transmitted helminth elimination look like? Results from a targeted molecular detection survey in Japan. Accepted for publication 30 December 2019: *Parasites and Vectors.*
 
 **Maasch J**, Arzika AM, Cook C, Lebas E, Pilotte N, Grant JR, Williams SA, Keenan JD, Lietman TM, Aiemjoy K. Rectal swabs as an alternative sample collection method to bulk stool for the real-time PCR detection of *Giardia duodenalis*. Submitted: *American Journal of Tropical Medicine and Hygiene.*
 
