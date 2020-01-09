@@ -22,9 +22,9 @@ Human health and disease, computation for social good, molecular genetics, the m
 
 ## Social
 <div class="SOCIAL">
-  <b><a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(0,0,0)"><font color="000000" target="_blank">ResearchGate</font></a><br>
-  <a href="https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao" style="color: rgb(0,0,0)"><font color="000000" target="_blank">Google Scholar</font></a><br>
-  <a href="https://www.linkedin.com/in/jmaasch/" style="color: rgb(0,0,0)"><font color="000000" target="_blank">LinkedIn</font></a><br>
+  <b><a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">ResearchGate</font></a><br>
+  <a href="https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao" style="color: rgb(0,0,0)" target="_blank"><font color="000000">Google Scholar</font></a><br>
+  <a href="https://www.linkedin.com/in/jmaasch/" style="color: rgb(0,0,0)" target="_blank"><font color="000000">LinkedIn</font></a><br>
   <a href="https://github.com/jmaasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">GitHub</font></a></b>
 </div>
 
