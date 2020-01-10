@@ -7,6 +7,10 @@
 
 ## PUBLICATIONS
 
+### 2020
+
+Hasegawa M, Pilotte N, Kikuchi M, Means AR, Papaiakovou M, Gonzalez AM, **Maasch J**, Ikuno H, Sunahara T, Ásbjörnsdóttir K, Walson JL, Williams SA, Hamano S. What does soil-transmitted helminth elimination look like? Results from a targeted molecular detection survey in Japan. *Parasites and Vectors 13*(6): doi:10.1186/s13071-019-3875-z. <b><a href="https://doi.org/10.1186/s13071-019-3875-z" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW</font></a></b> 
+
 ### 2019
 
 Pilotte N, **Maasch J**, Easton AV, Dahlstrom E, Nutman TB, Williams SA. Targeting a highly repeated embryonic DNA sequence for improved real-time PCR-based detection of *Ascaris* infection in human stool. *PLOS Neglected Tropical Diseases 13*(7): e0007593.
@@ -15,8 +19,6 @@ Pilotte N, **Maasch J**, Easton AV, Dahlstrom E, Nutman TB, Williams SA. Targeti
 ## PRE-PRINTS
 
 ### 2019
-
-Hasegawa M, Pilotte N, Kikuchi M, Means AR, Papaiakovou M, Gonzalez AM, **Maasch J**, Ikuno H, Sunahara T, Ásbjörnsdóttir K, Walson JL, Williams SA, Hamano S. What does soil-transmitted helminth elimination look like? Results from a targeted molecular detection survey in Japan. Final acceptance 30 December 2019, publication forthcoming: *Parasites and Vectors.*
 
 Benjamin-Chung J, Pilotte N, Ercumen A, Grant JR, **Maasch J**, Gonzalez AM, Abrams BP, Ester AC, Arnold BF, Rahman M, Haque R, Hubbard AE, Luby SP, Williams S, Colford JM. Comparison of multi-parallel qPCR and Kato-Katz for detection of soil-transmitted helminth infection among children in rural Bangladesh. Under review: *PLOS Neglected Tropical Diseases.*
 <b><a href="https://www.researchgate.net/publication/333020311_Comparison_of_multi-parallel_qPCR_and_Kato-Katz_for_detection_of_soil-transmitted_helminth_infection_among_children_in_rural_Bangladesh" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW</font></a></b> 
