@@ -9,7 +9,7 @@
 
 ### 2020
 
-Hasegawa M, Pilotte N, Kikuchi M, Means AR, Papaiakovou M, Gonzalez AM, **Maasch J**, Ikuno H, Sunahara T, Ásbjörnsdóttir K, Walson JL, Williams SA, Hamano S. What does soil-transmitted helminth elimination look like? Results from a targeted molecular detection survey in Japan. *Parasites and Vectors 13*(6): doi:10.1186/s13071-019-3875-z. <b><a href="https://doi.org/10.1186/s13071-019-3875-z" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW</font></a></b> 
+Hasegawa M, Pilotte N, Kikuchi M, Means AR, Papaiakovou M, Gonzalez AM, **Maasch J**, Ikuno H, Sunahara T, Ásbjörnsdóttir K, Walson JL, Williams SA, Hamano S. What does soil-transmitted helminth elimination look like? Results from a targeted molecular detection survey in Japan. *Parasites & Vectors 13*(6): doi:10.1186/s13071-019-3875-z. <b><a href="https://doi.org/10.1186/s13071-019-3875-z" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW</font></a></b> 
 
 ### 2019
 
