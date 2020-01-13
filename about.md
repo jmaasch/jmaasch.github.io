@@ -2,7 +2,7 @@
   <a href="about.html" style="color: rgb(0,0,0)"><font color="000000">ABOUT</font></a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="pubs.html" style="color: rgb(0,0,0)"><font color="000000">PUBLICATIONS + PRESENTATIONS</font></a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="projects.html" style="color: rgb(0,0,0)"><font color="000000">PROJECTS</font></a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/jmaasch/jmaasch.github.io/blob/master/cv_01_2020.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">CURRICULUM VITAE</font></a> 
+  <a href="cv_01_2020.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">CURRICULUM VITAE</font></a> 
 </div>
 
 # ABOUT ME
@@ -29,6 +29,7 @@ Human health and disease, computation for social good, molecular genetics, the m
     <img src="https://user-images.githubusercontent.com/50045763/72228214-c112cc80-3572-11ea-9ad0-fe10f357b3e2.png" width="25" align="left"/> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jmaasch/" style="color: rgb(0,0,0)" target="_blank"><font color="000000">LinkedIn</font></a><br><img src="https://user-images.githubusercontent.com/50045763/72228212-c07a3600-3572-11ea-9ee3-aaf371aafe5e.png" width="25" align="left"/> &nbsp;&nbsp;
     <a href="https://github.com/jmaasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">GitHub</font></a></b>
+  &nbsp;&nbsp;
 </div>
 
 
