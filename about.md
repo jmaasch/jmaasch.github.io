@@ -30,5 +30,3 @@ Human health and disease, computation for social good, molecular genetics, the m
     <img src="https://user-images.githubusercontent.com/50045763/72228214-c112cc80-3572-11ea-9ad0-fe10f357b3e2.png" width="25" align="left"/>
   <a href="https://www.linkedin.com/in/jmaasch/" style="color: rgb(0,0,0)" target="_blank"><font color="000000">LinkedIn</font></a><br>
 
-TEST3
-
