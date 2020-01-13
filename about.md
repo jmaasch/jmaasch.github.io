@@ -27,9 +27,6 @@ Human health and disease, computation for social good, molecular genetics, the m
   <a href="https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao" style="color: rgb(0,0,0)" target="_blank"><font color="000000">Google Scholar</font></a><br>
     <img src="https://user-images.githubusercontent.com/50045763/72228214-c112cc80-3572-11ea-9ad0-fe10f357b3e2.png" width="25" align="left"/>
   <a href="https://www.linkedin.com/in/jmaasch/" style="color: rgb(0,0,0)" target="_blank"><font color="000000">LinkedIn</font></a><br>
-  <img src="https://user-images.githubusercontent.com/50045763/72228212-c07a3600-3572-11ea-9ee3-aaf371aafe5e.png" width="25" align="left"/>
-    <a href="https://github.com/jmaasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">GitHub</font></a></b>
 
-
-TEST2
+TEST3
 
