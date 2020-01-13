@@ -23,19 +23,20 @@ Human health and disease, computation for social good, molecular genetics, the m
 ## Social
 
 
-<img src="https://user-images.githubusercontent.com/50045763/72228038-1817a200-3571-11ea-8e10-552af92914ce.png" width="25" align="left"/>
-<img src="https://user-images.githubusercontent.com/50045763/72228040-1817a200-3571-11ea-9daa-e58d9d896800.png" width="25" align="left"/>
+<img src="https://user-images.githubusercontent.com/50045763/72228039-1817a200-3571-11ea-8d82-7357b291dbcd.png" width="25" align="left"/>
 
-<img width="57" alt="ResearchGate" src="https://user-images.githubusercontent.com/50045763/72228038-1817a200-3571-11ea-8e10-552af92914ce.png">
-<img width="58" alt="ResearchGateSquare" src="https://user-images.githubusercontent.com/50045763/72228039-1817a200-3571-11ea-8d82-7357b291dbcd.png">
-<img width="54" alt="GoogleScholar" src="https://user-images.githubusercontent.com/50045763/72228040-1817a200-3571-11ea-9daa-e58d9d896800.png">
-<img width="59" alt="GoogleScholarSquare" src="https://user-images.githubusercontent.com/50045763/72228041-1817a200-3571-11ea-8026-66fe60e5cefc.png">
+<img src="https://user-images.githubusercontent.com/50045763/72228041-1817a200-3571-11ea-8026-66fe60e5cefc.png" width="25" align="left"/>
+
+<img src="https://user-images.githubusercontent.com/50045763/72228214-c112cc80-3572-11ea-9ad0-fe10f357b3e2.png" width="25" align="left"/>
+
+<img src="https://user-images.githubusercontent.com/50045763/72228212-c07a3600-3572-11ea-9ee3-aaf371aafe5e.png" width="25" align="left"/>
+
+
 
 <div class="SOCIAL">
   <b><a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">ResearchGate</font></a><br>
   <a href="https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao" style="color: rgb(0,0,0)" target="_blank"><font color="000000">Google Scholar</font></a><br>
   <a href="https://www.linkedin.com/in/jmaasch/" style="color: rgb(0,0,0)" target="_blank"><font color="000000">LinkedIn</font></a><br>
-    <img src="http://i.imgur.com/9I6NRUm.png" width="25" align="left"/>
     <a href="https://github.com/jmaasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">GitHub</font></a></b>
 </div>
 
