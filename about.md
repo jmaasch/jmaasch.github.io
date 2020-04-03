@@ -18,7 +18,7 @@ Human health and disease, computation for social good, molecular genetics, the m
 ## Languages
 
 *Frequently using* &nbsp;&nbsp; R &nbsp;–&nbsp; Java &nbsp;–&nbsp; LaTeX &nbsp; | &nbsp;
-*Actively learning* &nbsp;&nbsp; JavaScript &nbsp;–&nbsp; C
+*Actively learning* &nbsp;&nbsp; Python &nbsp;–&nbsp; C &nbsp;–&nbsp; JavaScript
 
 ## Social
   <img src="https://user-images.githubusercontent.com/50045763/72228039-1817a200-3571-11ea-8d82-7357b291dbcd.png" width="25" align="left"/><b><a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">ResearchGate</font></a><br>
