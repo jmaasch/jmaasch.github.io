@@ -25,8 +25,6 @@ Benjamin-Chung J, Pilotte N, Ercumen A, Grant JR, **Maasch J**, Gonzalez AM, Abr
 
 **Maasch J**, Arzika AM, Cook C, Lebas E, Pilotte N, Grant JR, Williams SA, Keenan JD, Lietman TM, Aiemjoy K. Rectal swabs as an alternative sample collection method to bulk stool for the real-time PCR detection of *Giardia duodenalis*. <b><a href="https://github.com/jmaasch/giardia-swab-detection" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW</font></a></b> 
 
-**Maasch J**, Arzika AM, Cook C, Lebas E, Pilotte N, Grant JR, Williams SA, Keenan JD, Lietman TM, Aiemjoy K. Molecular detection of intestinal helminths and protozoa among young children in Dosso Region, Niger. <b><a href="https://github.com/jmaasch/parasite-epidemiology-dosso-region" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW</font></a></b> 
-
 ## POSTERS + PRESENTATIONS
 
 ### 2019
