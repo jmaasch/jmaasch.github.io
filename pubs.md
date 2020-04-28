@@ -9,14 +9,14 @@
 
 ### 2020
 
-Benjamin-Chung J, Pilotte N, Ercumen A, Grant JR, **Maasch J**, Gonzalez AM, Abrams BP, Ester AC, Arnold BF, Rahman M, Haque R, Hubbard AE, Luby SP, Williams S, Colford JM. Comparison of multi-parallel qPCR and Kato-Katz for detection of soil-transmitted helminth infection among children in rural Bangladesh. *PLOS Neglected Tropical Diseases 14*(14): <b><a href="https://doi.org/10.1371/journal.pntd.0008087" style="color: rgb(176, 134, 153)" target="_blank"><font color="b08699">e0008087</font></a></b>.
+Benjamin-Chung J, Pilotte N, Ercumen A, Grant JR, **Maasch J**, Gonzalez AM, Abrams BP, Ester AC, Arnold BF, Rahman M, Haque R, Hubbard AE, Luby SP, Williams S, Colford JM. Comparison of multi-parallel qPCR and Kato-Katz for detection of soil-transmitted helminth infection among children in rural Bangladesh. *PLOS Neglected Tropical Diseases 14*(14): <a href="https://doi.org/10.1371/journal.pntd.0008087" style="color: rgb(176, 134, 153)" target="_blank"><font color="b08699">e0008087</font></a>.
 
-Hasegawa M, Pilotte N, Kikuchi M, Means AR, Papaiakovou M, Gonzalez AM, **Maasch J**, Ikuno H, Sunahara T, Ásbjörnsdóttir K, Walson JL, Williams SA, Hamano S. What does soil-transmitted helminth elimination look like? Results from a targeted molecular detection survey in Japan. *Parasites & Vectors 13*(6): <b><a href="https://doi.org/10.1186/s13071-019-3875-z" style="rgb(176, 134, 153)" target="_blank"><font color="b08699">doi:10.1186/s13071-019-3875-z</font></a></b>.
+Hasegawa M, Pilotte N, Kikuchi M, Means AR, Papaiakovou M, Gonzalez AM, **Maasch J**, Ikuno H, Sunahara T, Ásbjörnsdóttir K, Walson JL, Williams SA, Hamano S. What does soil-transmitted helminth elimination look like? Results from a targeted molecular detection survey in Japan. *Parasites & Vectors 13*(6): <a href="https://doi.org/10.1186/s13071-019-3875-z" style="rgb(176, 134, 153)" target="_blank"><font color="b08699">doi:10.1186/s13071-019-3875-z</font></a>.
 
 ### 2019
 
 Pilotte N, **Maasch J**, Easton AV, Dahlstrom E, Nutman TB, Williams SA. Targeting a highly repeated embryonic DNA sequence for improved real-time PCR-based detection of *Ascaris* infection in human stool. *PLOS Neglected Tropical Diseases 13*(7): 
-<b><a href="https://doi.org/10.1371/journal.pntd.0007593" style="color: rgb(176, 134, 153)" target="_blank"><font color="b08699">e0007593</font></a></b>.
+<a href="https://doi.org/10.1371/journal.pntd.0007593" style="color: rgb(176, 134, 153)" target="_blank"><font color="b08699">e0007593</font></a>.
 
 ## POSTERS + PRESENTATIONS
 
