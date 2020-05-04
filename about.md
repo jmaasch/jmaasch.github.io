@@ -14,12 +14,11 @@
 
 I am a Master's Candidate in the Department of Computer and Information Science at the University of Pennsylvania's School of Engineering and Applied Science.
 
+Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently collaborating with the Machine Biology Group at Penn Bioengineering and the Perelman School of Medicine.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50045763/80990821-051d2c00-8e05-11ea-8308-7a05612807fa.png" width="150"/>
 </p>
-
-
-Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently collaborating with the Machine Biology Group at Penn Bioengineering and the Perelman School of Medicine.
 
   <img src="https://user-images.githubusercontent.com/50045763/72228039-1817a200-3571-11ea-8d82-7357b291dbcd.png" width="25" align="left"/><b><a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">ResearchGate</font></a><br>
   <img src="https://user-images.githubusercontent.com/50045763/72228041-1817a200-3571-11ea-8026-66fe60e5cefc.png" width="25" align="left"/> <a href="https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao" style="color: rgb(0,0,0)" target="_blank"><font color="000000">Google Scholar</font></a><br>
