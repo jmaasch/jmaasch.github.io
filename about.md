@@ -20,8 +20,6 @@ I am a master's candidate in the Department of Computer and Information Science 
 
 ## Interests
 
-<img src="https://user-images.githubusercontent.com/50045763/71025066-5043d600-20d4-11ea-9eb8-d3ae779b94ab.jpg" width="100" align="right"/>
-
 Human health and disease; computation for social good; artificial intelligence; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.
 
 ## Proficiencies
