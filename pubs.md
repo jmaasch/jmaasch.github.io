@@ -7,6 +7,8 @@
 
 # PUBLICATIONS
 
+## ARTICLES
+
 ### 2020
 
 **Maasch J**, Arzika AM, Cook C, Lebas E, Pilotte N, Grant JR, Williams SA, Keenan JD, Lietman TM, Aiemjoy K. Rectal swabs as an alternative sample collection method to bulk stool for the real-time PCR detection of *Giardia duodenalis*. Accepted May 2020, in press: *American Journal of Tropical Medicine & Hygiene*.
@@ -20,7 +22,7 @@ Hasegawa M, Pilotte N, Kikuchi M, Means AR, Papaiakovou M, Gonzalez AM, **Maasch
 Pilotte N, **Maasch J**, Easton AV, Dahlstrom E, Nutman TB, Williams SA. Targeting a highly repeated embryonic DNA sequence for improved real-time PCR-based detection of *Ascaris* infection in human stool. *PLOS Neglected Tropical Diseases 13*(7): 
 <a href="https://doi.org/10.1371/journal.pntd.0007593" style="color: rgb(176, 134, 153)" target="_blank"><font color="b08699">e0007593</font></a>.
 
-# POSTERS + PRESENTATIONS
+## POSTERS + PRESENTATIONS
 
 ### 2019
 
