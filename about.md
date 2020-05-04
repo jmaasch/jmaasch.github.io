@@ -7,7 +7,7 @@
 
 # ABOUT ME
 
-<img src="https://user-images.githubusercontent.com/50045763/80990804-fc2c5a80-8e04-11ea-8d91-68e1d98cb18f.png" align="right"/>
+<img src="https://user-images.githubusercontent.com/50045763/80990804-fc2c5a80-8e04-11ea-8d91-68e1d98cb18f.png" width="200" align="right"/>
 
 I am a master's candidate in the Department of Computer and Information Science at the University of Pennsylvania's School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research.
 
