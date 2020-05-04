@@ -7,7 +7,7 @@
 </p>
 </div>
 
-# 
+---------------------------------------
 
 # PUBLICATIONS + PRESENTATIONS
 
