@@ -7,11 +7,11 @@
 
 # ABOUT ME
 
-<img src="https://user-images.githubusercontent.com/50045763/80990821-051d2c00-8e05-11ea-8308-7a05612807fa.png" width="200" align="right"/>
+<img src="https://user-images.githubusercontent.com/50045763/80990821-051d2c00-8e05-11ea-8308-7a05612807fa.png" width="150" align="right"/>
 
 I am a Master's Candidate in the Department of Computer and Information Science at the University of Pennsylvania's School of Engineering and Applied Science.
 
-<img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" width="320" align="right"/>
+<img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" width="300" align="right"/>
 
 Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently collaborating with the Machine Biology Group at Penn Bioengineering and the Perelman School of Medicine.
 
