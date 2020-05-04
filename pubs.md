@@ -7,7 +7,7 @@
 
 # PUBLICATIONS + PRESENTATIONS
 
-## PEER-REVIEWED ARTICLES
+## Peer-reviewed articles
 
 ### 2020
 
@@ -22,7 +22,7 @@ Hasegawa M, Pilotte N, Kikuchi M, Means AR, Papaiakovou M, Gonzalez AM, **Maasch
 Pilotte N, **Maasch J**, Easton AV, Dahlstrom E, Nutman TB, Williams SA. Targeting a highly repeated embryonic DNA sequence for improved real-time PCR-based detection of *Ascaris* infection in human stool. *PLOS Neglected Tropical Diseases 13*(7): 
 <a href="https://doi.org/10.1371/journal.pntd.0007593" style="color: rgb(176, 134, 153)" target="_blank"><font color="b08699">e0007593</font></a>.
 
-## POSTERS + PRESENTATIONS
+## Posters + presentations
 
 ### 2019
 
