@@ -5,7 +5,7 @@
     <a href="cv_01_2020.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">CURRICULUM VITAE</font></a> 
 </div>
 
-# PUBLICATIONS
+# PUBLICATIONS + PRESENTATIONS
 
 ## ARTICLES
 
