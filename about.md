@@ -22,7 +22,7 @@ Human health and disease, computation for social good, molecular genetics, the m
 
 ## Proficiencies
 
-- [x] *Advanced:* Java, R, LaTeX
-- [x] *Intermediate:* C
-- [x] *Actively learning:* Python, JavaScript, shell scripting
+* [x] *Advanced:* Java, R, LaTeX
+* [x] *Intermediate:* C
+* [x] *Actively learning:* Python, JavaScript, shell scripting
 
