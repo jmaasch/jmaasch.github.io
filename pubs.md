@@ -11,7 +11,7 @@
 
 ### 2020
 
-**Maasch J**, Arzika AM, Cook C, Lebas E, Pilotte N, Grant JR, Williams SA, Keenan JD, Lietman TM, Aiemjoy K. Rectal swabs as an alternative sample collection method to bulk stool for the real-time PCR detection of *Giardia duodenalis*. Accepted May 2020, in press: *American Journal of Tropical Medicine & Hygiene*.
+**Maasch J**, Arzika AM, Cook C, Lebas E, Pilotte N, Grant JR, Williams SA, Keenan JD, Lietman TM, Aiemjoy K. Rectal swabs as an alternative sample collection method to bulk stool for the real-time PCR detection of *Giardia duodenalis*. Accepted May 2020, in press: *American Journal of Tropical Medicine & Hygiene*. <a href="https://github.com/jmaasch/giardia-swab-detection" style="color: rgb(176, 134, 153)" target="_blank"><font color="b08699">GitHub</font></a>.
 
 Benjamin-Chung J, Pilotte N, Ercumen A, Grant JR, **Maasch J**, Gonzalez AM, Abrams BP, Ester AC, Arnold BF, Rahman M, Haque R, Hubbard AE, Luby SP, Williams S, Colford JM. Comparison of multi-parallel qPCR and Kato-Katz for detection of soil-transmitted helminth infection among children in rural Bangladesh. *PLOS Neglected Tropical Diseases 14*(14): <a href="https://doi.org/10.1371/journal.pntd.0008087" style="color: rgb(176, 134, 153)" target="_blank"><font color="b08699">e0008087</font></a>.
 
