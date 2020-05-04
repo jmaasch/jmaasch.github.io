@@ -9,9 +9,7 @@
 
 ---------------------------------------
 
-<p align="center">
 # PUBLICATIONS + PRESENTATIONS
-</p>
 
 ## Peer-reviewed articles
 
