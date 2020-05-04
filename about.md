@@ -20,8 +20,9 @@ I am a master's candidate in the Department of Computer and Information Science 
 
 Human health and disease, computation for social good, molecular genetics, the microbial ecology of the human body, the art and science of data visualization.
 
-## Languages
+## Proficiencies
 
-*Frequently using* &nbsp;&nbsp; R &nbsp;–&nbsp; Java &nbsp;–&nbsp; LaTeX &nbsp; | &nbsp;
-*Actively learning* &nbsp;&nbsp; Python &nbsp;–&nbsp; C &nbsp;–&nbsp; JavaScript
+*Advanced:* Java, R, LaTeX
+*Intermediate:* C
+*Actively learning:* Python, JavaScript
 
