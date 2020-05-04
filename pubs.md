@@ -9,7 +9,7 @@
 
 ---------------------------------------
 
-# PUBLICATIONS + PRESENTATIONS {align=center}
+# PUBLICATIONS + PRESENTATIONS
 
 ## Peer-reviewed articles
 
