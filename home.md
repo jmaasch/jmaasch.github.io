@@ -12,7 +12,7 @@
 
 # JACQUELINE  R.M.A.  MAASCH
 
-<img src="https://user-images.githubusercontent.com/50045763/71037837-83935e80-20ee-11ea-9acf-be4ffd846332.png" height="300"/>
+<img src="https://user-images.githubusercontent.com/50045763/71037837-83935e80-20ee-11ea-9acf-be4ffd846332.png" height="400"/>
 
 <html>
 <head>
@@ -20,8 +20,8 @@
   <style type="text/css">
     svg {
       background-color: #b3e8c2;
-      width: 300px;
-      height: 300px;
+      width: 400px;
+      height: 400px;
     }
     circle {
       fill: #ff5200;
