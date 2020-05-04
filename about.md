@@ -14,10 +14,9 @@ I am a master's candidate in the Department of Computer and Information Science 
   <img src="https://user-images.githubusercontent.com/50045763/72228212-c07a3600-3572-11ea-9ee3-aaf371aafe5e.png" width="25" align="left"/> <a href="https://github.com/jmaasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">GitHub</font></a><br>
   <img src="https://user-images.githubusercontent.com/50045763/72228214-c112cc80-3572-11ea-9ad0-fe10f357b3e2.png" width="25" align="left"/> <a href="https://www.linkedin.com/in/jmaasch/" style="color: rgb(0,0,0)" target="_blank"><font color="000000">LinkedIn</font></a></b><br>
 
-  
-<img src="https://user-images.githubusercontent.com/50045763/71025066-5043d600-20d4-11ea-9eb8-d3ae779b94ab.jpg" width="100" align="right"/>
-
 ## Interests
+
+<img src="https://user-images.githubusercontent.com/50045763/71025066-5043d600-20d4-11ea-9eb8-d3ae779b94ab.jpg" width="100" align="right"/>
 
 Human health and disease, computation for social good, molecular genetics, the microbial ecology of the human body, the art and science of data visualization.
 
