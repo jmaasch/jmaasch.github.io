@@ -21,9 +21,13 @@ Prior to joining Penn Engineering, I was a life science professional with experi
   <img src="https://user-images.githubusercontent.com/50045763/72228212-c07a3600-3572-11ea-9ee3-aaf371aafe5e.png" width="25" align="left"/> <a href="https://github.com/jmaasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">GitHub</font></a><br>
   <img src="https://user-images.githubusercontent.com/50045763/72228214-c112cc80-3572-11ea-9ad0-fe10f357b3e2.png" width="25" align="left"/> <a href="https://www.linkedin.com/in/jmaasch/" style="color: rgb(0,0,0)" target="_blank"><font color="000000">LinkedIn</font></a></b><br>
 
+<p align="center">
+
 <img src="https://user-images.githubusercontent.com/50045763/80990821-051d2c00-8e05-11ea-8308-7a05612807fa.png" width="150" align="right"/>
 
 <img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" width="300" align="left"/>
+
+<\p>
 
 ## Research interests
 
