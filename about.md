@@ -20,7 +20,7 @@ Prior to joining Penn Engineering, I was a life science professional with experi
   <img src="https://user-images.githubusercontent.com/50045763/72228212-c07a3600-3572-11ea-9ee3-aaf371aafe5e.png" width="25" align="left"/> <a href="https://github.com/jmaasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">GitHub</font></a><br>
   <img src="https://user-images.githubusercontent.com/50045763/72228214-c112cc80-3572-11ea-9ad0-fe10f357b3e2.png" width="25" align="left"/> <a href="https://www.linkedin.com/in/jmaasch/" style="color: rgb(0,0,0)" target="_blank"><font color="000000">LinkedIn</font></a></b><br>
 
-## Interests
+## Research interests
 
 Human health and disease; computation for social good; artificial intelligence; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.
 
