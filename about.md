@@ -16,7 +16,7 @@ I am a Master's Candidate in the Department of Computer and Information Science 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50045763/80990804-fc2c5a80-8e04-11ea-8d91-68e1d98cb18f.png" height="60"/>
-    <img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" height="60"/>
+    <img src="https://user-images.githubusercontent.com/50045763/81597918-75dbbf80-9394-11ea-8f20-e7f1b8e1da97.png" height="60"/>
       <img src="https://user-images.githubusercontent.com/50045763/81596758-9b67c980-9392-11ea-86a5-d732f4ed90cd.jpg" height="60"/>
   <a href="http://www.med.upenn.edu/" target="_blank"><img src="https://www.med.upenn.edu/images/psom_logo_blue.svg" alt="Perelman School of Medicine at the University of Pennsylvania" width="213" height="60"/></a> 
 </p>
