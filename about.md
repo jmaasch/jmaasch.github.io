@@ -21,6 +21,7 @@ I am a Master's Candidate in the Department of Computer and Information Science 
       <img src="https://user-images.githubusercontent.com/50045763/81596758-9b67c980-9392-11ea-86a5-d732f4ed90cd.jpg" height="75"/> &nbsp; &nbsp;
   <a href="http://www.med.upenn.edu/" target="_blank"><img src="https://www.med.upenn.edu/images/psom_logo_blue.svg" alt="Perelman School of Medicine at the University of Pennsylvania" height="75"/></a> 
   <br>
+  <br>
 </p>
 
 
