@@ -12,9 +12,7 @@
 
 # ABOUT ME
 
-I am a Master's Candidate in the Department of Computer and Information Science at the University of Pennsylvania's School of Engineering and Applied Science.
-
-Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently collaborating with the Machine Biology Group at Penn Bioengineering and the Perelman School of Medicine.
+I am a Master's Candidate in the Department of Computer and Information Science at the University of Pennsylvania's School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the [Machine Biology Group](https://delafuentelab.seas.upenn.edu/) and [Henao-Mejia Lab](https://www.henao-mejialab.com/) at Penn Bioengineering and the Perelman School of Medicine.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50045763/80990804-fc2c5a80-8e04-11ea-8d91-68e1d98cb18f.png" height="60"/>
