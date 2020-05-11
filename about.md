@@ -18,6 +18,7 @@ Prior to joining Penn Engineering, I was a life science professional with experi
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50045763/80990821-051d2c00-8e05-11ea-8308-7a05612807fa.png" width="150"/>
+  <a href="http://www.med.upenn.edu/" target="_blank"><img src="https://www.med.upenn.edu/images/psom_logo_blue.svg" alt="Perelman School of Medicine at the University of Pennsylvania" width="213" height="60"/></a> 
 </p>
 
   <img src="https://user-images.githubusercontent.com/50045763/72228039-1817a200-3571-11ea-8d82-7357b291dbcd.png" width="25" align="left"/><b><a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">ResearchGate</font></a><br>
