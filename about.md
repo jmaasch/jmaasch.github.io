@@ -15,9 +15,9 @@
 I am a Master's Candidate in the Department of Computer and Information Science at the University of Pennsylvania's School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the [Machine Biology Group](https://delafuentelab.seas.upenn.edu/) and [Henao-Mejia Lab](https://www.henao-mejialab.com/) at Penn Bioengineering and the Perelman School of Medicine.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/50045763/80990804-fc2c5a80-8e04-11ea-8d91-68e1d98cb18f.png" height="60"/>
-    <img src="https://user-images.githubusercontent.com/50045763/81597918-75dbbf80-9394-11ea-8f20-e7f1b8e1da97.png" height="60"/>
-      <img src="https://user-images.githubusercontent.com/50045763/81596758-9b67c980-9392-11ea-86a5-d732f4ed90cd.jpg" height="60"/>
+  <img src="https://user-images.githubusercontent.com/50045763/80990804-fc2c5a80-8e04-11ea-8d91-68e1d98cb18f.png" height="60"/> &nbsp; &nbsp;
+    <img src="https://user-images.githubusercontent.com/50045763/81597918-75dbbf80-9394-11ea-8f20-e7f1b8e1da97.png" height="60"/> &nbsp; &nbsp;
+      <img src="https://user-images.githubusercontent.com/50045763/81596758-9b67c980-9392-11ea-86a5-d732f4ed90cd.jpg" height="60"/> &nbsp; &nbsp;
   <a href="http://www.med.upenn.edu/" target="_blank"><img src="https://www.med.upenn.edu/images/psom_logo_blue.svg" alt="Perelman School of Medicine at the University of Pennsylvania" width="213" height="60"/></a> 
 </p>
 
