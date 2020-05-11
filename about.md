@@ -17,7 +17,7 @@ I am a Master's Candidate in the Department of Computer and Information Science 
 Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently collaborating with the Machine Biology Group at Penn Bioengineering and the Perelman School of Medicine.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/50045763/80990821-051d2c00-8e05-11ea-8308-7a05612807fa.png" width="150"/>
+  <img src="https://user-images.githubusercontent.com/50045763/80990804-fc2c5a80-8e04-11ea-8d91-68e1d98cb18f.png" width="175"/>
   <a href="http://www.med.upenn.edu/" target="_blank"><img src="https://www.med.upenn.edu/images/psom_logo_blue.svg" alt="Perelman School of Medicine at the University of Pennsylvania" width="213" height="60"/></a> 
 </p>
 
