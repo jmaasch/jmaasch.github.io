@@ -14,4 +14,4 @@
 
 This site is under construction.
 
-<img src="https://user-images.githubusercontent.com/50045763/71037837-83935e80-20ee-11ea-9acf-be4ffd846332.png" width="500" align="middle"/>
+<img src="https://user-images.githubusercontent.com/50045763/71037837-83935e80-20ee-11ea-9acf-be4ffd846332.png" width="200" align="middle"/>
