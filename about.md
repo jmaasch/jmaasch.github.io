@@ -16,7 +16,6 @@ I am a Master's Candidate in the Department of Computer and Information Science 
 
 <p align="center">
   <br>
-  <br>
   <img src="https://user-images.githubusercontent.com/50045763/80990821-051d2c00-8e05-11ea-8308-7a05612807fa.png" height="75"/> &nbsp; &nbsp;
     <img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" height="75"/> &nbsp; &nbsp;
       <img src="https://user-images.githubusercontent.com/50045763/81596758-9b67c980-9392-11ea-86a5-d732f4ed90cd.jpg" height="75"/> &nbsp; &nbsp;
