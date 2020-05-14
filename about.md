@@ -10,9 +10,11 @@
 
 ---------------------------------------
 
-# ABOUT ME
+# ABOUT
 
-I am a Master's Candidate in the Department of Computer and Information Science at the University of Pennsylvania's School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> at Penn Bioengineering and <a href="https://www.henao-mejialab.com/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Henao-Mejia Lab</font></a> at the Perelman School of Medicine. I was recently named a GAPSA-Provost Interdisciplinary Innovation Fellow for the project *Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design.*
+## About me
+
+I am a Master's Candidate and Interdisciplinary Innovation Fellow in the Department of Computer and Information Science at the University of Pennsylvania's School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> at Penn Bioengineering and <a href="https://www.henao-mejialab.com/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Henao-Mejia Lab</font></a> at the Perelman School of Medicine.
 
 <p align="center">
   <br>
@@ -27,9 +29,11 @@ I am a Master's Candidate in the Department of Computer and Information Science 
 
 ## Research interests
 
-*Human health and disease; artificial intelligence; computation for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization; diversity in STEM.*
+*Human health and disease; artificial intelligence; computation for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
 
 The <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> integrates synthetic biology, automation, and artificial intelligence to computerize biological systems, build synthetic molecular tools, and devise novel therapies. <a href="https://www.henao-mejialab.com/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Henao-Mejia Lab</font></a> investigates interactions among metabolism regulation, the intestinal microbiota, non-coding RNAs, and the innate immune system.
+
+I was recently named a 2020 GAPSA-Provost Interdisciplinary Innovation Fellow for the project *Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design.*
 
 More information on my personal research can be found below.
 
