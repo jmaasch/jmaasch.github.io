@@ -14,7 +14,7 @@
 
 ## About me
 
-I am a Master's Candidate and Interdisciplinary Innovation Fellow in the Department of Computer and Information Science at the University of Pennsylvania's School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> at Penn Bioengineering and <a href="https://www.henao-mejialab.com/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Henao-Mejia Lab</font></a> at the Perelman School of Medicine. My far-flung personal interests range from climate change to color theory.
+I am a Master's Candidate and Interdisciplinary Innovation Fellow in the Department of Computer and Information Science at the University of Pennsylvania's School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> at Penn Bioengineering and <a href="https://www.henao-mejialab.com/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Henao-Mejia Lab</font></a> at the Perelman School of Medicine. My personal interests are far-flung, ranging from climate change to color theory.
 
 <p align="center">
   <br>
