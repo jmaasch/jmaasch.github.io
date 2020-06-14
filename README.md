@@ -1,6 +1,6 @@
 <div class="topnav">
   <p align="center">
-  <p style="font-size:30px">JACQUELINE  R.M.A.  MAASCH</p> <br><br>
+  <p align="center" style="font-size:30px">JACQUELINE  R.M.A.  MAASCH</p> <br><br>
   <a href="home.html" style="color: rgb(0,0,0)"><font color="000000">HOME</font></a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="about.html" style="color: rgb(0,0,0)"><font color="000000">ABOUT</font></a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="pubs.html" style="color: rgb(0,0,0)"><font color="000000">PUBLICATIONS + PRESENTATIONS</font></a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
