@@ -18,12 +18,13 @@ I am a Master's Candidate and Interdisciplinary Innovation Fellow in the Departm
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/50045763/80990821-051d2c00-8e05-11ea-8308-7a05612807fa.png" height="75"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" height="200"/>
+  <img src="https://user-images.githubusercontent.com/50045763/80990821-051d2c00-8e05-11ea-8308-7a05612807fa.png" height="100"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" height="100"/>
   <br>
   <br>
 </p>
 
+<p align="center>
 ***All Watched Over By Machines Of Loving Grace*** <br>
 **Richard Brautigan  | 1967**
 
@@ -54,6 +55,7 @@ returned to our mammal <br>
 brothers and sisters, <br>
 and all watched over <br>
 by machines of loving grace.
+</p>
 
 
 ## Research interests
