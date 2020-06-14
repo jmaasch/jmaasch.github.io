@@ -17,38 +17,6 @@
 I am a Master's Candidate and Interdisciplinary Innovation Fellow in the Department of Computer and Information Science at the University of Pennsylvania School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> at Penn Bioengineering and the Perelman School of Medicine.
 
 
-***All Watched Over By Machines Of Loving Grace*** <br>
-**Richard Brautigan  | 1967**
-
-I like to think (and <br>
-the sooner the better!) <br>
-of a cybernetic meadow <br>
-where mammals and computers <br>
-live together in mutually <br>
-programming harmony <br>
-like pure water <br>
-touching clear sky. <br>
-
-I like to think <br>
-(right now, please!) <br>
-of a cybernetic forest <br>
-filled with pines and electronics <br>
-where deer stroll peacefully <br>
-past computers <br>
-as if they were flowers <br>
-with spinning blossoms. <br>
-
-I like to think <br>
-(it has to be!) <br>
-of a cybernetic ecology <br>
-where we are free of our labors <br>
-and joined back to nature, <br>
-returned to our mammal <br>
-brothers and sisters, <br>
-and all watched over <br>
-by machines of loving grace.
-
-
 ## Research interests
 
 *Human health and disease; artificial intelligence; computation for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
@@ -79,3 +47,34 @@ More information on my personal research can be found below.
 ## This website
 
 This website is intended to serve as a personal portfolio. It was developed in GitHub Pages as an homage to the excellence of Markdown. Latest update: June 2020.
+
+***All Watched Over By Machines Of Loving Grace*** <br>
+**Richard Brautigan  | 1967**
+
+I like to think (and <br>
+the sooner the better!) <br>
+of a cybernetic meadow <br>
+where mammals and computers <br>
+live together in mutually <br>
+programming harmony <br>
+like pure water <br>
+touching clear sky. <br>
+
+I like to think <br>
+(right now, please!) <br>
+of a cybernetic forest <br>
+filled with pines and electronics <br>
+where deer stroll peacefully <br>
+past computers <br>
+as if they were flowers <br>
+with spinning blossoms. <br>
+
+I like to think <br>
+(it has to be!) <br>
+of a cybernetic ecology <br>
+where we are free of our labors <br>
+and joined back to nature, <br>
+returned to our mammal <br>
+brothers and sisters, <br>
+and all watched over <br>
+by machines of loving grace.
