@@ -26,6 +26,11 @@ View the <a href="https://github.com/jmaasch/sanzo/" style="color: rgb(167,55,75
 
 ### All watched over by machines of loving grace
 
+<meta charset="utf-8">
+<body>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-timer.v1.min.js"></script>
+
 <script>
 
 // Set dimensions of SVG container.
