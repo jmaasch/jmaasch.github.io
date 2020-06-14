@@ -24,7 +24,6 @@ View the <a href="https://github.com/jmaasch/sanzo/" style="color: rgb(167,55,75
 
 ## D3 play
 
-<!DOCTYPE html>
 <meta charset="utf-8">
 <body>
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -191,4 +190,175 @@ d3.timer(function(t) {
 
 </script>
 
-</html>
+<script>
+
+// Set dimensions of SVG container.
+
+var width = 1000,
+    height = 500;
+
+// Build SVG container for visualization.
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+    .style("background", "#b319ab")
+    .append("g")
+    .attr("transform", "translate(" + [width / 2, height / 2] + ")");
+
+// Append path for Lissajous curve.
+
+var lissajous = svg.append("path")
+    .attr("fill", "none")
+    .attr("stroke", "#fa2b00")
+    .attr("stroke-opacity", 1)
+    .attr("stroke-width", 0.5)
+    .attr("x", 50)
+    .attr("y", 250);
+
+// Append rectangle to house text.
+
+var textBox = svg.append("rect")
+    .attr("width", 400)
+    .attr("height", 400)
+    .attr("x", 50)
+    .attr("y", -200)
+    .style("fill", "#ffffff")
+    .style("opacity", 0.6);
+
+// Append text of third stanza.
+
+    /*
+    I like to think
+    (it has to be!)
+    of a cybernetic ecology
+    where we are free of our labors
+    and joined back to nature,
+    returned to our mammal
+    brothers and sisters,
+    and all watched over
+    by machines of loving grace.
+    */
+
+var text1 = svg.append("text")
+    .attr("x", 60)
+    .attr("y", -50)
+    .attr("dy", "-2em")
+    .attr("font-family", "sans-serif")
+    .attr("font-size", "25px")
+    .attr("fill", "#fa2b00")
+    .text("I like to think");
+
+var text2 = svg.append("text")
+    .attr("x", 60)
+    .attr("y", -50)
+    .attr("dy", "-1em")
+    .attr("font-family", "sans-serif")
+    .attr("font-size", "25px")
+    .attr("fill", "#fa2b00")
+    .text("(it has to be!)");
+
+var text3 = svg.append("text")
+    .attr("x", 60)
+    .attr("y", -50)
+    .attr("dy", "0em")
+    .attr("font-family", "sans-serif")
+    .attr("font-size", "25px")
+    .attr("fill", "#fa2b00")
+    .text("of a cybernetic ecology");
+
+var text4 = svg.append("text")
+    .attr("x", 60)
+    .attr("y", -50)
+    .attr("dy", "1em")
+    .attr("font-family", "sans-serif")
+    .attr("font-size", "25px")
+    .attr("fill", "#fa2b00")
+    .text("where we are free of our labors");
+
+var text5 = svg.append("text")
+    .attr("x", 60)
+    .attr("y", -50)
+    .attr("dy", "2em")
+    .attr("font-family", "sans-serif")
+    .attr("font-size", "25px")
+    .attr("fill", "#fa2b00")
+    .text("and joined back to nature,");
+
+var text6 = svg.append("text")
+    .attr("x", 60)
+    .attr("y", -50)
+    .attr("dy", "3em")
+    .attr("font-family", "sans-serif")
+    .attr("font-size", "25px")
+    .attr("fill", "#fa2b00")
+    .text("returned to our mammal");
+
+var text7 = svg.append("text")
+    .attr("x", 60)
+    .attr("y", -50)
+    .attr("dy", "4em")
+    .attr("font-family", "sans-serif")
+    .attr("font-size", "25px")
+    .attr("fill", "#fa2b00")
+    .text("brothers and sisters,");
+
+var text8 = svg.append("text")
+    .attr("x", 60)
+    .attr("y", -50)
+    .attr("dy", "5em")
+    .attr("font-family", "sans-serif")
+    .attr("font-size", "25px")
+    .attr("fill", "#fa2b00")
+    .text("and all watched over");
+
+var text8 = svg.append("text")
+    .attr("x", 60)
+    .attr("y", -50)
+    .attr("dy", "6em")
+    .attr("font-family", "sans-serif")
+    .attr("font-size", "25px")
+    .attr("fill", "#fa2b00")
+    .text("by machines of loving grace.");
+
+
+/*
+SVG Path Mini-Language
+
+T (t) = Shorthand/smooth quadratic Bézier curveto:
+Draw a quadratic Bézier curve from the current point
+to (x,y). The control point is assumed to be the
+reflection of the control point on the previous command
+relative to the current point.
+
+L (l) = lineto: Draw a line from the current point to
+the point (x,y).
+
+M (m) = moveto: Move the pen to a new location. No line
+is drawn. All path data must begin with a 'moveto' command.
+*/
+
+/* Equations for Lissajous curves adapted from:
+http://goatlink.deviantart.com/art/lissajous-curves-338721857
+*/
+
+var range = d3.range(-70 * Math.PI, 50 * Math.PI, 0.02);
+
+d3.timer(function(t) {
+    var d = "M";
+
+    for (var i = 0; i < range.length; i++) {
+        var p = range[i];
+        d += 0.3 * width * (Math.sin(2.01 * p + t / 2000) + Math.sin(3.01 * p + t / 3000));
+        d += ",";
+        d += 0.3 * height * (Math.sin(3 * p + t / 4000) + Math.sin(3.01 * p + t / 3000));
+        if (i != range.length - 1) d += "L";
+    }
+
+    d.length--;
+    lissajous.attr("d", d);
+
+})
+
+</script>
+
