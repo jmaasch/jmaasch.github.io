@@ -10,7 +10,7 @@
 
 ---------------------------------------
 
-<div id="chart" align="center">
+<div id="svg" align="center">
 
 <meta charset="utf-8">
 <body>
