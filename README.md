@@ -1,4 +1,4 @@
-<p align="center" style="font-size:50px"><b>JACQUELINE  R.M.A.  MAASCH</b></p><br><br>
+<p align="center" style="font-size:70px"><b>JACQUELINE  R.M.A.  MAASCH</b></p><br><br>
 <div class="topnav">
   <p align="center">
   <a href="home.html" style="color: rgb(0,0,0)"><font color="000000">HOME</font></a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
