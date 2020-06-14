@@ -26,4 +26,10 @@ View the <a href="https://github.com/jmaasch/sanzo/" style="color: rgb(167,55,75
 
 ### All watched over by machines of loving grace
 
-  <a href="machines_of_loving_grace1.md" style="color: rgb(0,0,0)"><font color="000000">View</font></a>
+<div class="topnav">
+  <p align="center">
+  <a href="machines_of_loving_grace1.html" style="color: rgb(0,0,0)"><font color="000000">View</font></a>
+</p>
+</div>
+
+
