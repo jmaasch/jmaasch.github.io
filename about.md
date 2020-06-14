@@ -24,7 +24,7 @@ I am a Master's Candidate and Interdisciplinary Innovation Fellow in the Departm
   <br>
 </p>
 
-<p align="center>
+
 ***All Watched Over By Machines Of Loving Grace*** <br>
 **Richard Brautigan  | 1967**
 
@@ -55,7 +55,6 @@ returned to our mammal <br>
 brothers and sisters, <br>
 and all watched over <br>
 by machines of loving grace.
-</p>
 
 
 ## Research interests
