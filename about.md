@@ -14,17 +14,47 @@
 
 ## About me
 
-I am a Master's Candidate and Interdisciplinary Innovation Fellow in the Department of Computer and Information Science at the University of Pennsylvania School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> at Penn Bioengineering and <a href="https://www.henao-mejialab.com/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Henao-Mejia Lab</font></a> at the Perelman School of Medicine.
+I am a Master's Candidate and Interdisciplinary Innovation Fellow in the Department of Computer and Information Science at the University of Pennsylvania School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> at Penn Bioengineering and the Perelman School of Medicine.
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/50045763/80990821-051d2c00-8e05-11ea-8308-7a05612807fa.png" height="75"/> &nbsp; &nbsp;
-    <img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" height="75"/> &nbsp; &nbsp;
-      <img src="https://user-images.githubusercontent.com/50045763/81596758-9b67c980-9392-11ea-86a5-d732f4ed90cd.jpg" height="75"/> &nbsp; &nbsp;
-  <a href="http://www.med.upenn.edu/" target="_blank"><img src="https://www.med.upenn.edu/images/psom_logo_blue.svg" alt="Perelman School of Medicine at the University of Pennsylvania" height="75"/></a> 
+  <img src="https://user-images.githubusercontent.com/50045763/80990821-051d2c00-8e05-11ea-8308-7a05612807fa.png" height="100"/> &nbsp; &nbsp;
+    <img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" height="100"/> &nbsp; &nbsp;
+  <a href="http://www.med.upenn.edu/" target="_blank"><img src="https://www.med.upenn.edu/images/psom_logo_blue.svg" alt="Perelman School of Medicine at the University of Pennsylvania" height="100"/></a> 
   <br>
   <br>
 </p>
+
+#### All Watched Over By Machines Of Loving Grace <br>
+Richard Brautigan  | 1967
+
+I like to think (and <br>
+the sooner the better!) <br>
+of a cybernetic meadow
+where mammals and computers
+live together in mutually
+programming harmony
+like pure water
+touching clear sky.
+
+I like to think
+(right now, please!)
+of a cybernetic forest
+filled with pines and electronics
+where deer stroll peacefully
+past computers
+as if they were flowers
+with spinning blossoms.
+
+I like to think
+(it has to be!)
+of a cybernetic ecology
+where we are free of our labors
+and joined back to nature,
+returned to our mammal
+brothers and sisters,
+and all watched over
+by machines of loving grace.
 
 
 ## Research interests
@@ -48,3 +78,6 @@ More information on my personal research can be found below.
 * *Intermediate:* C
 * *Actively learning:* Python, JavaScript, Bash
 
+## This website
+
+This website is intended to serve as a personal portfolio. It was developed in GitHub pages as an homage to Markdown. Latest update: June 2020.
