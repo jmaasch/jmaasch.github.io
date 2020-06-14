@@ -10,6 +10,8 @@
 
 ---------------------------------------
 
+<div id="chart" align="center">
+
 <meta charset="utf-8">
 <body>
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -531,3 +533,4 @@ d3.timer(function(t) {
 })
 
 </script>
+</div>
