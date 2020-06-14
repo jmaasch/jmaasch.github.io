@@ -26,10 +26,6 @@ View the <a href="https://github.com/jmaasch/sanzo/" style="color: rgb(167,55,75
 
 ### All watched over by machines of loving grace
 
-<div class="topnav">
-  <p align="center">
-  <a href="machines_of_loving_grace1.html" style="color: rgb(0,0,0)"><font color="000000">View</font></a>
-</p>
-</div>
+An homage to the 1967 poem by Richard Brautigan and Lissajous curves played out in JavaScript D3. <a href="machines_of_loving_grace1.html" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Click to view</font></a>.
 
 
