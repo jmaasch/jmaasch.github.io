@@ -10,7 +10,7 @@
 
 ---------------------------------------
 
-<div id="svg" align="center">
+<div id="body" align="center">
 
 <meta charset="utf-8">
 <body>
