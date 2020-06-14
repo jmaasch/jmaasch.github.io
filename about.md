@@ -19,8 +19,7 @@ I am a Master's Candidate and Interdisciplinary Innovation Fellow in the Departm
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/50045763/80990821-051d2c00-8e05-11ea-8308-7a05612807fa.png" height="100"/> &nbsp; &nbsp;
-    <img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" height="100"/> &nbsp; &nbsp;
-  <a href="http://www.med.upenn.edu/" target="_blank"><img src="https://www.med.upenn.edu/images/psom_logo_blue.svg" alt="Perelman School of Medicine at the University of Pennsylvania" height="100"/></a> 
+    <img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" height="200"/> &nbsp; &nbsp;
   <br>
   <br>
 </p>
