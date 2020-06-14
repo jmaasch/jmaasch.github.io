@@ -25,35 +25,35 @@ I am a Master's Candidate and Interdisciplinary Innovation Fellow in the Departm
   <br>
 </p>
 
-#### All Watched Over By Machines Of Loving Grace <br>
-Richard Brautigan  | 1967
+***All Watched Over By Machines Of Loving Grace*** <br>
+**Richard Brautigan  | 1967**
 
 I like to think (and <br>
 the sooner the better!) <br>
-of a cybernetic meadow
-where mammals and computers
-live together in mutually
-programming harmony
-like pure water
-touching clear sky.
+of a cybernetic meadow <br>
+where mammals and computers <br>
+live together in mutually <br>
+programming harmony <br>
+like pure water <br>
+touching clear sky. <br>
 
-I like to think
-(right now, please!)
-of a cybernetic forest
-filled with pines and electronics
-where deer stroll peacefully
-past computers
-as if they were flowers
-with spinning blossoms.
+I like to think <br>
+(right now, please!) <br>
+of a cybernetic forest <br>
+filled with pines and electronics <br>
+where deer stroll peacefully <br>
+past computers <br>
+as if they were flowers <br>
+with spinning blossoms. <br>
 
-I like to think
-(it has to be!)
-of a cybernetic ecology
-where we are free of our labors
-and joined back to nature,
-returned to our mammal
-brothers and sisters,
-and all watched over
+I like to think <br>
+(it has to be!) <br>
+of a cybernetic ecology <br>
+where we are free of our labors <br>
+and joined back to nature, <br>
+returned to our mammal <br>
+brothers and sisters, <br>
+and all watched over <br>
 by machines of loving grace.
 
 
@@ -61,9 +61,7 @@ by machines of loving grace.
 
 *Human health and disease; artificial intelligence; computation for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
 
-The <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> integrates synthetic biology, automation, and artificial intelligence to computerize biological systems, build synthetic molecular tools, and devise novel therapies. <a href="https://www.henao-mejialab.com/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Henao-Mejia Lab</font></a> investigates interactions among the innate immune system, the intestinal microbiota, non-coding RNAs, and metabolism regulation.
-
-I was recently named a 2020 GAPSA-Provost Interdisciplinary Innovation Fellow for the project *Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design.*
+The <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> integrates synthetic biology, automation, and artificial intelligence to computerize biological systems, build synthetic molecular tools, and devise novel therapies. To support my research with the Machine Biology Group, I was awarded a 2020 GAPSA-Provost Interdisciplinary Innovation Fellowship for the project *Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design.*
 
 More information on my personal research can be found below.
 
@@ -80,4 +78,4 @@ More information on my personal research can be found below.
 
 ## This website
 
-This website is intended to serve as a personal portfolio. It was developed in GitHub pages as an homage to Markdown. Latest update: June 2020.
+This website is intended to serve as a personal portfolio. It was developed in GitHub Pages as an homage to the excellence of Markdown. Latest update: June 2020.
