@@ -6,6 +6,8 @@
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-timer.v1.min.js"></script>
 
+<p align="center">
+
 <script>
 
 // Set dimensions of SVG container.
@@ -499,3 +501,5 @@ d3.timer(function(t) {
 })
 
 </script>
+
+</p>
