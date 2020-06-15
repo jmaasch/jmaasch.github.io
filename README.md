@@ -1,4 +1,4 @@
-<div class="topnav">
+<div class="name">
   <p align="center" style="font-size:40px">
     <b>JACQUELINE R.M.A. MAASCH</b>
   </p>
