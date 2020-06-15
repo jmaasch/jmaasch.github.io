@@ -9,7 +9,7 @@
 </div>
 
 ---------------------------------------
-
+<p align="center">
 <div class="svg-container" align="center">
 
 <meta charset="utf-8">
@@ -533,4 +533,5 @@ d3.timer(function(t) {
 })
 
 </script>
+</p>
 </div>
