@@ -1,6 +1,6 @@
 <div class="topnav">
-  <p align="center">
-    <b>This text is bold</b>
+  <p align="center" style="font-size:40px">
+    <b>JACQUELINE R.M.A. MAASCH</b>
   </p>
 </div>
 
