@@ -10,9 +10,9 @@
 
 ---------------------------------------
 
-TEST
+TEST2
 
-<div id="svg3" align="center">
+<div id="svg3" style="text-align:center;">
 
 <meta charset="utf-8">
 <body>
