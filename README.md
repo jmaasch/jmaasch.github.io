@@ -533,5 +533,4 @@ d3.timer(function(t) {
 })
 
 </script>
-</p>
-</div>
+
