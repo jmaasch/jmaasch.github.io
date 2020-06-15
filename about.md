@@ -24,9 +24,9 @@
 
 I am a Master's Candidate and Interdisciplinary Innovation Fellow in the Department of Computer and Information Science at the University of Pennsylvania School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> at Penn Bioengineering and the Perelman School of Medicine.
 
-The Machine Biology Group integrates synthetic biology, automation, and artificial intelligence to computerize biological systems, build synthetic molecular tools, and devise novel therapies. To support my current research, I was awarded a 2020 GAPSA-Provost Interdisciplinary Innovation Fellowship for the project *Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design.*
-
 <img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" height="150" align="right"/>
+
+The Machine Biology Group integrates synthetic biology, automation, and artificial intelligence to computerize biological systems, build synthetic molecular tools, and devise novel therapies. To support my current research, I was awarded a 2020 GAPSA-Provost Interdisciplinary Innovation Fellowship for the project *Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design.*
 
 More information on my personal research can be found below.
 
