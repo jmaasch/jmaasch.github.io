@@ -10,12 +10,7 @@
 
 ---------------------------------------
 
-<div class="svg-container">
-  
-.svg-container{
-     display: inline-block;
-     margin: 0 auto;
-  }
+<div class="svg-container" align="center">
 
 <meta charset="utf-8">
 <body>
