@@ -28,6 +28,8 @@ I am a Master's Candidate and Interdisciplinary Innovation Fellow in the Departm
 
 The Machine Biology Group integrates synthetic biology, automation, and artificial intelligence to computerize biological systems, build synthetic molecular tools, and devise novel therapies. To support my current research, I was awarded a 2020 GAPSA-Provost Interdisciplinary Innovation Fellowship for the project *Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design.*
 
+I am proficient in Java, R, and LaTeX, and am actively learning C, Python, JavaScript, and Bash.
+
 More information on my personal research can be found below.
 
 <img src="https://user-images.githubusercontent.com/50045763/72228039-1817a200-3571-11ea-8d82-7357b291dbcd.png" width="25" align="left"/><b><a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">ResearchGate</font></a><br>
@@ -35,11 +37,6 @@ More information on my personal research can be found below.
   <img src="https://user-images.githubusercontent.com/50045763/72228212-c07a3600-3572-11ea-9ee3-aaf371aafe5e.png" width="25" align="left"/> <a href="https://github.com/jmaasch" style="color: rgb(0,0,0)" target="_blank"><font color="000000">GitHub</font></a><br>
   <img src="https://user-images.githubusercontent.com/50045763/72228214-c112cc80-3572-11ea-9ad0-fe10f357b3e2.png" width="25" align="left"/> <a href="https://www.linkedin.com/in/jmaasch/" style="color: rgb(0,0,0)" target="_blank"><font color="000000">LinkedIn</font></a></b><br>
   
-**Proficiencies:**
-
-* *Advanced:* Java, R, LaTeX
-* *Intermediate:* C
-* *Actively learning:* Python, JavaScript, Bash
 
 ## This website
 
