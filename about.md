@@ -40,7 +40,9 @@ More information on my personal research can be found below.
 
 ## This website
 
-This website is intended to serve as a personal portfolio. It was developed in GitHub Pages as an homage to the excellence of Markdown. Latest update: June 2020.
+This website is intended to serve as a personal portfolio. It was developed in GitHub Pages as an homage to the excellence of Markdown. The JS D3 visualization on my homepage is inspired by Lissajous curves, the movements of deep sea organisms, and curling smoke.
+
+Latest update: June 2020.
 
 ***All Watched Over By Machines Of Loving Grace*** <br>
 **Richard Brautigan  | 1967**
