@@ -50,40 +50,9 @@ Latest update: July 2020.
 
 My research is motivated by a commitment to technological development, biomedical and otherwise, that is egalitarian and liberatory and not guided by profit-driven, discriminatory, and anti-environmentalist impulses.
 
-***All Watched Over By Machines Of Loving Grace*** <br>
-**Richard Brautigan  | 1967**
-
-I like to think (and <br>
-the sooner the better!) <br>
-of a cybernetic meadow <br>
-where mammals and computers <br>
-live together in mutually <br>
-programming harmony <br>
-like pure water <br>
-touching clear sky. <br>
-
-I like to think <br>
-(right now, please!) <br>
-of a cybernetic forest <br>
-filled with pines and electronics <br>
-where deer stroll peacefully <br>
-past computers <br>
-as if they were flowers <br>
-with spinning blossoms. <br>
-
-I like to think <br>
-(it has to be!) <br>
-of a cybernetic ecology <br>
-where we are free of our labors <br>
-and joined back to nature, <br>
-returned to our mammal <br>
-brothers and sisters, <br>
-and all watched over <br>
-by machines of loving grace.
-
-```python
+```java
 All Watched Over By Machines Of Loving Grace
-Richard Brautigan  | 1967
+Richard Brautigan | 1967
 
 I like to think (and
 the sooner the better!)
