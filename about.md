@@ -81,4 +81,7 @@ by machines of loving grace.
 
 ## Contact
 
-I may be reached via LinkedIn or email: ```bash echo name@domain | sed 's/name/jmaasch/' | sed 's/domain/seas.upenn.edu/'```
+I may be reached via LinkedIn or email:
+```bash
+echo name@domain | sed 's/name/jmaasch/' | sed 's/domain/seas.upenn.edu/'
+```
