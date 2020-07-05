@@ -28,7 +28,7 @@ I am a Master's Candidate, Interdisciplinary Innovation Fellow, and Reproducible
 
 The Machine Biology Group integrates synthetic biology, automation, and artificial intelligence to computerize biological systems, build synthetic molecular tools, and devise novel therapies. To support my current research, I was awarded a 2020 GAPSA-Provost Fellowship in Interdisciplinary Innovation for the project *Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design.*
 
-For the 2020–2021 academic year, I will serve as a Frictionless Data Reproducible Research Fellow for the <a href="https://okfn.org" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Open Knowledge Foundation</font></a>, funded by the <a href="https://sloan.org" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Alfred P. Sloan Foundation</font></a>.
+For the 2020–2021 academic year, I will serve as a Frictionless Data for Reproducible Research Fellow for the <a href="https://okfn.org" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Open Knowledge Foundation</font></a>, funded by the <a href="https://sloan.org" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Alfred P. Sloan Foundation</font></a>.
 
 I am proficient in ```Java```, ```R```, and ```LaTeX```, and am actively learning ```C```, ```Python```, ```JavaScript```, and ```Bash```. Currently, I program daily in ```Python``` and weekly in ```R``` and ```Java```.
 
