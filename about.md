@@ -36,20 +36,17 @@ More information on my personal research can be found below.
   <img src="https://user-images.githubusercontent.com/50045763/72228041-1817a200-3571-11ea-8026-66fe60e5cefc.png" width="25" align="left"/> <a href="https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Google Scholar</font></a><br>
   <img src="https://user-images.githubusercontent.com/50045763/72228212-c07a3600-3572-11ea-9ee3-aaf371aafe5e.png" width="25" align="left"/> <a href="https://github.com/jmaasch" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">GitHub</font></a><br>
   <img src="https://user-images.githubusercontent.com/50045763/72228214-c112cc80-3572-11ea-9ad0-fe10f357b3e2.png" width="25" align="left"/> <a href="https://www.linkedin.com/in/jmaasch/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">LinkedIn</font></a><br>
-  
 
-## Contact
-
-I may be reached via LinkedIn or email.
-
-Email = echo @seas.upenn.edu | sed 's/^/jmaasch/'
-  
 
 ## This website
 
-This website is intended to serve as a personal portfolio. It was developed in GitHub Pages as an homage to the excellence of Markdown. The JS D3 visualization on my homepage is inspired by Lissajous curves, the movements of deep sea organisms, and curling smoke.
+This website is intended to serve as a personal portfolio. It was developed in GitHub Pages as an homage to the excellence of Markdown. The JS D3 visualization on my homepage is inspired by Lissajous curves and the movements of deep sea organisms.
 
-Latest update: June 2020.
+Latest update: July 2020.
+
+## My motivations
+
+My research is motivated by a desire to ensure that the benefits of technological development, biomedical and otherwise, are egalitarian and liberatory. Profit-driven, discriminatory, and anti-environmentalist impulses in tech 
 
 ***All Watched Over By Machines Of Loving Grace*** <br>
 **Richard Brautigan  | 1967**
@@ -81,3 +78,7 @@ returned to our mammal <br>
 brothers and sisters, <br>
 and all watched over <br>
 by machines of loving grace.
+
+## Contact
+
+I may be reached via LinkedIn or email: ```bash echo name@domain | sed 's/name/jmaasch/' | sed 's/domain/seas.upenn.edu/'```
