@@ -42,7 +42,7 @@ More information on my personal research can be found below.
 
 ## This website
 
-This website is intended to serve as a personal portfolio. It was developed in GitHub Pages as an homage to the excellence of Markdown. The ```JS D3``` visualization on my homepage is inspired by Lissajous curves and the movements of deep sea organisms.
+This website is intended to serve as a personal portfolio. It was developed in GitHub Pages as an homage to the excellence of ```Markdown```. The ```JS D3``` visualization on my homepage is inspired by Lissajous curves and the movements of deep sea organisms.
 
 Latest update: July 2020.
 
