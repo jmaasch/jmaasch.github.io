@@ -47,9 +47,9 @@ d3.timer(function(t) {
 
     for (var i = 0; i < range.length; i++) {
         var p = range[i];
-        d += 0.1 * width * (Math.sin(3 * p + t / 2000) + Math.sin(3.01 * p + t / 2000));
+        d += 0.15 * width * (Math.sin(3 * p + t / 2000) + Math.sin(3.01 * p + t / 2000));
         d += ",";
-        d += 0.1 * height * (Math.sin(6 * p + t / 4000) + Math.sin(1.01 * p + t / 2000));
+        d += 0.15 * height * (Math.sin(6 * p + t / 4000) + Math.sin(1.01 * p + t / 2000));
         if (i != range.length - 1) d += "L";
     }
 
