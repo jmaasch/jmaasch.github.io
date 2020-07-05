@@ -48,9 +48,9 @@ Latest update: July 2020.
 
 ## My motivations
 
-My research is motivated by a commitment to technological development, biomedical and otherwise, that is egalitarian and liberatory and not guided by profit-driven, discriminatory, and anti-environmentalist impulses.
+My research is motivated by a commitment to technological development, biomedical and otherwise, that is egalitarian, liberatory, and guided by principles of open science, anti-racism, environmentalism, and anti-discrimination in the broadest sense.
 
-```python
+```bash
 All Watched Over By Machines Of Loving Grace
 Richard Brautigan | 1967
 
@@ -89,3 +89,5 @@ I may be reached via LinkedIn or email:
 ```bash
 echo @ | sed 's/^/jmaasch/' | sed 's/$/seas.upenn.edu/'
 ```
+
+Pronouns: she / her or they / them
