@@ -48,7 +48,7 @@ Latest update: July 2020.
 
 ## My motivations
 
-My research is motivated by a commitment to technological development – biomedical and otherwise – that is egalitarian, liberatory, and guided by principles of open science, anti-racism, environmentalism, and anti-discrimination in the broadest sense.
+My research is motivated by a commitment to technological development – biomedical and otherwise – that is egalitarian, liberatory, and guided by principles of open science, anti-racism, environmentalism, and social justice in the broadest sense.
 
 ```bash
 All Watched Over By Machines Of Loving Grace
