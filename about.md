@@ -22,13 +22,15 @@
 
 *Human health and disease; artificial intelligence; computation for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
 
-I am a Master's Candidate and Interdisciplinary Innovation Fellow in the Department of Computer and Information Science at the University of Pennsylvania School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> at Penn Bioengineering and the Perelman School of Medicine.
+I am a Master's Candidate, Interdisciplinary Innovation Fellow, and Reproducible Research Fellow in the Department of Computer and Information Science at the University of Pennsylvania School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> at Penn Bioengineering and the Perelman School of Medicine.
 
 <img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" height="150" align="right"/>
 
-The Machine Biology Group integrates synthetic biology, automation, and artificial intelligence to computerize biological systems, build synthetic molecular tools, and devise novel therapies. To support my current research, I was awarded a 2020 GAPSA-Provost Interdisciplinary Innovation Fellowship for the project *Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design.*
+The Machine Biology Group integrates synthetic biology, automation, and artificial intelligence to computerize biological systems, build synthetic molecular tools, and devise novel therapies. To support my current research, I was awarded a 2020 GAPSA-Provost Fellowship in Interdisciplinary Innovation for the project *Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design.*
 
-I am proficient in Java, R, and LaTeX, and am actively learning C, Python, JavaScript, and Bash.
+For the 2020–2021 academic year, I will serve as a Frictionless Data Reproducible Research Fellow for the <a href="https://okfn.org" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Open Knowledge Foundation</font></a>, funded by the <a href="https://sloan.org" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Alfred P. Sloan Foundation</font></a>.
+
+I am proficient in ```Java```, ```R```, and ```LaTeX```, and am actively learning ```C```, ```Python```, ```JavaScript```, and ```Bash```. Currently, I program daily in ```Python``` and weekly in ```R``` and ```Java```.
 
 More information on my personal research can be found below.
 
@@ -46,7 +48,7 @@ Latest update: July 2020.
 
 ## My motivations
 
-My research is motivated by a desire to ensure that the benefits of technological development, biomedical and otherwise, are egalitarian and liberatory. Profit-driven, discriminatory, and anti-environmentalist impulses in tech 
+My research is motivated by a commitment to technological development, biomedical and otherwise, that is egalitarian and liberatory and not guided by profit-driven, discriminatory, and anti-environmentalist impulses.
 
 ***All Watched Over By Machines Of Loving Grace*** <br>
 **Richard Brautigan  | 1967**
@@ -83,5 +85,5 @@ by machines of loving grace.
 
 I may be reached via LinkedIn or email:
 ```bash
-echo name@domain | sed 's/name/jmaasch/' | sed 's/domain/seas.upenn.edu/'
+echo @ | sed 's/^/jmaasch/' | sed 's/$/seas.upenn.edu/'
 ```
