@@ -38,6 +38,13 @@ More information on my personal research can be found below.
   <img src="https://user-images.githubusercontent.com/50045763/72228214-c112cc80-3572-11ea-9ad0-fe10f357b3e2.png" width="25" align="left"/> <a href="https://www.linkedin.com/in/jmaasch/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">LinkedIn</font></a><br>
   
 
+## Contact
+
+I may be reached via LinkedIn or email.
+
+Email = echo @seas.upenn.edu | sed 's/^/jmaasch/'
+  
+
 ## This website
 
 This website is intended to serve as a personal portfolio. It was developed in GitHub Pages as an homage to the excellence of Markdown. The JS D3 visualization on my homepage is inspired by Lissajous curves, the movements of deep sea organisms, and curling smoke.
