@@ -42,7 +42,7 @@ More information on my personal research can be found below.
 
 ## This website
 
-This website is intended to serve as a personal portfolio. It was developed in GitHub Pages as an homage to the excellence of Markdown. The JS D3 visualization on my homepage is inspired by Lissajous curves and the movements of deep sea organisms.
+This website is intended to serve as a personal portfolio. It was developed in GitHub Pages as an homage to the excellence of Markdown. The ```JS D3``` visualization on my homepage is inspired by Lissajous curves and the movements of deep sea organisms.
 
 Latest update: July 2020.
 
@@ -80,6 +80,39 @@ returned to our mammal <br>
 brothers and sisters, <br>
 and all watched over <br>
 by machines of loving grace.
+
+```bash
+***All Watched Over By Machines Of Loving Grace***
+**Richard Brautigan  | 1967**
+
+I like to think (and
+the sooner the better!)
+of a cybernetic meadow
+where mammals and computers
+live together in mutually
+programming harmony
+like pure water
+touching clear sky.
+
+I like to think
+(right now, please!)
+of a cybernetic forest
+filled with pines and electronics
+where deer stroll peacefully
+past computers
+as if they were flowers
+with spinning blossoms.
+
+I like to think
+(it has to be!)
+of a cybernetic ecology
+where we are free of our labors
+and joined back to nature,
+returned to our mammal
+brothers and sisters,
+and all watched over
+by machines of loving grace.
+```
 
 ## Contact
 
