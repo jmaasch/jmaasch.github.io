@@ -81,9 +81,9 @@ brothers and sisters, <br>
 and all watched over <br>
 by machines of loving grace.
 
-```bash
-***All Watched Over By Machines Of Loving Grace***
-**Richard Brautigan  | 1967**
+```python
+All Watched Over By Machines Of Loving Grace
+Richard Brautigan  | 1967
 
 I like to think (and
 the sooner the better!)
