@@ -25,5 +25,5 @@
 >Subjects actively pursued through formal coursework, professional research, and/or publication.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50045763/87957300-15e15380-ca7e-11ea-821b-52417ba0e0c9.jpg" width="500">
+<img src="https://user-images.githubusercontent.com/50045763/87994538-2c59d000-cabb-11ea-97ea-14ab24e33ddf.jpg" width="500">
 </p>
