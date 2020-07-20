@@ -7,6 +7,9 @@
 
 # CURRICULUM VITAE
 
+## Full CV
+ <a href="cv_10_2019.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">View the PDF of my full CV here.</font></a>
+
 ## Visual timeline of research interests
 
 <p align="center">
@@ -14,6 +17,3 @@
 </p>
 
 >Subjects actively pursued through formal coursework, professional research, and/or publication.
-
-## Full CV
- <a href="cv_10_2019.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW.</font></a>
