@@ -25,7 +25,7 @@
 ## Visual timeline of research interests
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50045763/87957300-15e15380-ca7e-11ea-821b-52417ba0e0c9.jpg" width="500"></img>
+<img src="https://user-images.githubusercontent.com/50045763/87957300-15e15380-ca7e-11ea-821b-52417ba0e0c9.jpg" width="500">
 </p>
 
 >Subjects actively pursued through formal coursework, professional research, and/or publication.
