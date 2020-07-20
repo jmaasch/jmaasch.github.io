@@ -10,7 +10,7 @@
   <a href="about.html" style="color: rgb(0,0,0)"><font color="000000">ABOUT</font></a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="pubs.html" style="color: rgb(0,0,0)"><font color="000000">PUBLICATIONS + PRESENTATIONS</font></a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="projects.html" style="color: rgb(0,0,0)"><font color="000000">PROJECTS</font></a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="resume_05_2020.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">CURRICULUM VITAE</font></a> 
+  <a href="cv.html" style="color: rgb(0,0,0)"><font color="000000">CURRICULUM VITAE</font></a> 
 </p>
 </div>
 
@@ -18,9 +18,11 @@
 
 # ABOUT
 
-## My research
+## Key interests
 
 *Human health and disease; artificial intelligence; computation for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
+
+## My research
 
 I am a Master's Candidate, Interdisciplinary Innovation Fellow, and Reproducible Research Fellow in the Department of Computer and Information Science at the University of Pennsylvania School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> at Penn Bioengineering and the Perelman School of Medicine.
 
