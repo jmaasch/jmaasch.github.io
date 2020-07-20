@@ -7,8 +7,11 @@
 
 # CURRICULUM VITAE
 
-### Short-form resume
- <a href="resume_11_2019.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW.</font></a>
+### Visual timeline of research interests
 
-### Long-form CV
+<p align="center">
+<img src="https://user-images.githubusercontent.com/50045763/87957300-15e15380-ca7e-11ea-821b-52417ba0e0c9.jpg"></img>
+</p>
+
+### Full CV
  <a href="cv_10_2019.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">VIEW.</font></a>
