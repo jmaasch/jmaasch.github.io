@@ -8,7 +8,7 @@
 # CURRICULUM VITAE
 
 ## Full CV
- <a href="cv_10_2019.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">View the PDF of my full CV here.</font></a>
+ <a href="resume_05_2020.pdf" style="color: rgb(0,0,0)" target="_blank"><font color="000000">View the PDF of my full CV here.</font></a>
 
 ## Visual timeline of research interests
 
