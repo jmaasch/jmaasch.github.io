@@ -20,10 +20,10 @@
 
  <a href="resume_05_2020.pdf" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">View the PDF of my full CV here.</font></a>
 
-## Visual timeline of active research
+## Timeline of active research
 
->Subjects actively pursued through formal coursework, professional research, and/or publication.
+>Subjects actively pursued through formal coursework, professional research, and/or publication. Color gradient flows from undergraduate (UG) to professional post-graduate to graduate (G) research.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50045763/87994538-2c59d000-cabb-11ea-97ea-14ab24e33ddf.jpg" width="500">
+<img src="https://user-images.githubusercontent.com/50045763/88601757-540ee200-d03f-11ea-8c8f-015afba55e94.jpg" width="500">
 </p>
