@@ -25,5 +25,5 @@
 >Subjects actively pursued through formal coursework, professional research, and/or publication. Color gradient flows from undergraduate (UG) to professional post-graduate to graduate (G) research.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50045763/88601757-540ee200-d03f-11ea-8c8f-015afba55e94.jpg" width="700">
+<img src="https://user-images.githubusercontent.com/50045763/88601757-540ee200-d03f-11ea-8c8f-015afba55e94.jpg" width="550">
 </p>
