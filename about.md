@@ -28,7 +28,7 @@ I am a Master's Candidate, Interdisciplinary Innovation Fellow, and Reproducible
 
 <img src="https://user-images.githubusercontent.com/50045763/80991760-7f01e500-8e06-11ea-9a2c-ef93e339610f.jpg" height="150" align="right"/>
 
-The Machine Biology Group integrates synthetic biology, automation, and artificial intelligence to computerize biological systems, build synthetic molecular tools, and devise novel therapies. To support my current research, I was awarded a 2020 GAPSA-Provost Fellowship in Interdisciplinary Innovation for the project <a href="https://jmaasch.github.io/ml-peptides/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B"><i>Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design</i></font></a>.
+The Machine Biology Group integrates synthetic biology, automation, and artificial intelligence to computerize biological systems, build synthetic molecular tools, and devise novel therapies. To support my current research, I was awarded a 2020 GAPSA-Provost Fellowship in Interdisciplinary Innovation for the project *Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design*.
 
 For the 2020–2021 academic year, I will serve as a Frictionless Data for Reproducible Research Fellow for the <a href="https://okfn.org" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Open Knowledge Foundation</font></a>, funded by the <a href="https://sloan.org" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Alfred P. Sloan Foundation</font></a>.
 
