@@ -18,14 +18,6 @@
 
 # PROJECTS
 
-## Research wikis
-
-### Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design
-
-Artificial intelligence is poised to facilitate the exploration of unprecedentedly vast biological datasets and to provide actionable predictions on unmeasured biological space. This project will use deep learning to train artificial neural networks to predict peptide activity and inform novel antimicrobial peptide design. By applying predictive models to the design of new antimicrobial candidates, this project will set the foundation for optimizing natural templates and engineering entirely novel, computer-designed antibiotics.
-
-<a href="https://jmaasch.github.io/ml-peptides/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">View this research wiki.</font></a>
-
 ## R packages
 
 ### ```sanzo``` Color Palettes Based on the Works of Sanzo Wada.
