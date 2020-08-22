@@ -30,8 +30,6 @@ I am a Master's Candidate, Interdisciplinary Innovation Fellow, and Reproducible
 
 The Machine Biology Group integrates synthetic biology, automation, and artificial intelligence to computerize biological systems, build synthetic molecular tools, and devise novel therapies. To support my current research, I was awarded a 2020 GAPSA-Provost Fellowship in Interdisciplinary Innovation for the project *Deep learning to predict peptide antimicrobial activity for computer-guided antibiotic design*. My research is further supported by the <a href="https://okfn.org" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Open Knowledge Foundation</font></a> Frictionless Data for Reproducible Research Fellowship, funded by the <a href="https://sloan.org" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Alfred P. Sloan Foundation</font></a>.
 
-I am proficient in ```Java```, ```R```, ```Python```, and ```LaTeX```, and am actively learning ```C```, ```JavaScript```, and ```Bash```. Currently, I program daily in ```Python``` and weekly in ```R``` and ```Java```.
-
 More information on my personal research can be found below.
 
 <img src="https://user-images.githubusercontent.com/50045763/72228039-1817a200-3571-11ea-8d82-7357b291dbcd.png" width="25" align="left"/><a href="https://www.researchgate.net/profile/Jacqueline_Maasch" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">ResearchGate</font></a><br>
@@ -39,6 +37,9 @@ More information on my personal research can be found below.
   <img src="https://user-images.githubusercontent.com/50045763/72228212-c07a3600-3572-11ea-9ee3-aaf371aafe5e.png" width="25" align="left"/> <a href="https://github.com/jmaasch" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">GitHub</font></a><br>
   <img src="https://user-images.githubusercontent.com/50045763/72228214-c112cc80-3572-11ea-9ad0-fe10f357b3e2.png" width="25" align="left"/> <a href="https://www.linkedin.com/in/jmaasch/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">LinkedIn</font></a><br>
 
+## Proficiencies
+
+I am proficient in ```Java```, ```R```, ```Python```, and ```LaTeX```, and am actively learning ```C```, ```JavaScript```, and ```Bash```. Currently, I program daily in ```Python``` and weekly in ```R``` and ```Java```. I have experience in ```R``` package development and am actively learning to incorporate high performance computing into my research.
 
 ## This website
 
