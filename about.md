@@ -18,13 +18,11 @@
 
 # ABOUT
 
-## My research
-
-### Key interests
+## Key interests
 
 >*Health and disease; artificial intelligence; computation for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
 
-### Current appointments
+## My research
 
 I am a Master's Candidate, Interdisciplinary Innovation Fellow, and Reproducible Research Fellow in the Department of Computer and Information Science at the University of Pennsylvania School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> at Penn Bioengineering and the Perelman School of Medicine.
 
@@ -34,9 +32,7 @@ The Machine Biology Group integrates synthetic biology, automation, and artifici
 
 For the 2020–2021 academic year, I will serve as a Frictionless Data for Reproducible Research Fellow for the <a href="https://okfn.org" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Open Knowledge Foundation</font></a>, funded by the <a href="https://sloan.org" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Alfred P. Sloan Foundation</font></a>.
 
-### Proficiencies
-
-I am proficient in ```Java```, ```R```, and ```LaTeX```, and am actively learning ```C```, ```Python```, ```JavaScript```, and ```Bash```. Currently, I program daily in ```Python``` and weekly in ```R``` and ```Java```.
+I am proficient in ```Java```, ```R```, ```Python```, and ```LaTeX```, and am actively learning ```C```, ```JavaScript```, and ```Bash```. Currently, I program daily in ```Python``` and weekly in ```R``` and ```Java```.
 
 More information on my personal research can be found below.
 
