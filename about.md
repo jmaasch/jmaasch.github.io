@@ -22,7 +22,7 @@
 
 >*Health and disease; artificial intelligence; computation for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
 
-## My research
+## Research
 
 I am a Master's Candidate, Interdisciplinary Innovation Fellow, and Reproducible Research Fellow in the Department of Computer and Information Science at the University of Pennsylvania School of Engineering and Applied Science. Prior to joining Penn Engineering, I was a life science professional with experience in molecular genetics and public health research. I am currently a Computational Researcher with the <a href="https://delafuentelab.seas.upenn.edu/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">Machine Biology Group</font></a> at Penn Bioengineering and the Perelman School of Medicine.
 
@@ -41,13 +41,7 @@ More information on my personal research can be found below.
 
 I am proficient in ```Java```, ```R```, ```Python```, and ```LaTeX```, and am actively learning ```C```, ```JavaScript```, and ```Bash```. Currently, I program daily in ```Python``` and weekly in ```R``` and ```Java```. I have experience in ```R``` package development and am actively learning to incorporate high performance computing into my research.
 
-## This website
-
-This website is intended to serve as a personal portfolio. It was developed in GitHub Pages as an homage to the excellence of ```Markdown```. The ```JS D3``` visualization on my homepage is inspired by Lissajous curves and the movements of deep sea organisms.
-
-Latest update: July 2020.
-
-## My motivations
+## Motivations
 
 My research is motivated by a commitment to technological development – biomedical and otherwise – that is egalitarian, liberatory, and guided by principles of open science.
 
@@ -83,6 +77,12 @@ brothers and sisters,
 and all watched over
 by machines of loving grace.
 ```
+
+## This website
+
+This website is intended to serve as a personal portfolio. It was developed in GitHub Pages as an homage to the excellence of ```Markdown```. The ```JS D3``` visualization on my homepage is inspired by Lissajous curves and the movements of deep sea organisms.
+
+Latest update: July 2020.
 
 ## Contact
 
