@@ -48,6 +48,6 @@ Bespoke color palette packages can expedite data visualization tasks. If you wou
 devtools::install_github("jmaasch/ashR")
 ```
 
-<img src="https://github.com/jmaasch/jmaasch.github.io/blob/master/images/density_grid2.png" align="middle"/>
+<img src="images/density_grid2.png" align="middle"/>
 
 *Note on accessibility: These color palettes were customized for use by a color-blind data scientist, though we cannot guarantee usefulness for all color-blind individuals.*
