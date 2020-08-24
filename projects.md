@@ -18,7 +18,7 @@
 
 # PROJECTS
 
-## R packages
+# R packages
 
 ## ```sanzo``` Color Palettes Based on the Works of Sanzo Wada.
 
@@ -39,15 +39,18 @@ View the <a href="https://github.com/jmaasch/sanzo/" style="color: rgb(167,55,75
 
 ## `ashR` Interpolated Color Palettes for Data Visualization.
 
-*Bespoke interpolated color palettes for data visualization in R.* This package provides made-to-order discrete color palettes in an interpolated range. These low-contrast color palettes are intended for use cases in which subtle variation is desired. **Note:** This package is currently under development.
-
-Bespoke color palette packages can expedite data visualization tasks. If you would like your own bespoke package, message me at www.linkedin.com/in/jmaasch.
-
-<p align="center">   
-<img src="https://github.com/jmaasch/ashR/blob/master/figures/density_grid2.jpg" width="700" align="middle"/>
-</p>
+*Bespoke interpolated color palettes for data visualization in R.* This package provides made-to-order discrete color palettes in an interpolated range. These low-contrast color palettes are intended for use cases in which subtle variation is desired.
 
 ```R
 # Install development version.
 devtools::install_github("jmaasch/ashR")
 ```
+
+Bespoke color palette packages can expedite data visualization tasks. If you would like your own bespoke package, message me at www.linkedin.com/in/jmaasch.
+
+*Note on accessibility: These color palettes were customized for use by a color-blind data scientist, though we cannot guarantee usefulness for all color-blind individuals.*
+
+
+<p align="center">   
+<img src="https://github.com/jmaasch/ashR/blob/master/figures/density_grid2.jpg" width="700" align="middle"/>
+</p>
