@@ -47,7 +47,8 @@ Bespoke color palette packages can expedite data visualization tasks. If you wou
 # Install development version.
 devtools::install_github("jmaasch/ashR")
 ```
-
-<img src="https://user-images.githubusercontent.com/50045763/91103101-a5a78e00-e638-11ea-88b6-1b496f01a39a.jpg" align="middle"/>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/50045763/91103101-a5a78e00-e638-11ea-88b6-1b496f01a39a.jpg" width="700" align="middle"/>
+  </p>
 
 *Note on accessibility: These color palettes were customized for use by a color-blind data scientist, though we cannot guarantee usefulness for all color-blind individuals.*
