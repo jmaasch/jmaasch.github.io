@@ -39,19 +39,16 @@ View the <a href="https://github.com/jmaasch/sanzo/" style="color: rgb(167,55,75
 
 ## `ashR` Interpolated Color Palettes for Data Visualization.
 
-*Bespoke interpolated color palettes for data visualization in R.* This package provides made-to-order discrete color palettes in an interpolated range. These low-contrast color palettes are intended for use cases in which subtle variation is desired.
+*Bespoke interpolated color palettes for data visualization in R.* This package provides 60 made-to-order discrete color palettes in an interpolated range. These low-contrast color palettes are intended for use cases in which subtle variation is desired. View the <a href="https://github.com/jmaasch/ashR/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">GitHub repository</font></a> for further install instructions, usage recommendations, and demo gallery.
 
 ```R
 # Install development version.
 devtools::install_github("jmaasch/ashR")
 ```
 
-Bespoke color palette packages can expedite data visualization tasks. If you would like your own bespoke package, message me at www.linkedin.com/in/jmaasch.
+Bespoke color palette packages can expedite data visualization tasks. If you would like your own bespoke package, message me at <a href=" www.linkedin.com/in/jmaasch" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B"> www.linkedin.com/in/jmaasch</font></a>.
 
 *Note on accessibility: These color palettes were customized for use by a color-blind data scientist, though we cannot guarantee usefulness for all color-blind individuals.*
-
-View the <a href="https://github.com/jmaasch/ashR/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">GitHub repository</font></a> for further install instructions, usage recommendations, and demo gallery.
-
 
 <p align="center">   
 <img src="https://github.com/jmaasch/ashR/blob/master/figures/density_grid2.jpg" width="700" align="middle"/>
