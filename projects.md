@@ -50,6 +50,4 @@ Bespoke color palette packages can expedite data visualization tasks. If you wou
 
 *Note on accessibility: These color palettes were customized for use by a color-blind data scientist, though we cannot guarantee usefulness for all color-blind individuals.*
 
-<p align="center">   
-<img src="https://github.com/jmaasch/jmaasch.github.io/blob/master/images/density_grid2.jpg" width="700" align="middle"/>
-</p>
+<img src="https://github.com/jmaasch/jmaasch.github.io/blob/master/images/density_grid2.jpg" align="middle"/>
