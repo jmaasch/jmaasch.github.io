@@ -50,6 +50,8 @@ Bespoke color palette packages can expedite data visualization tasks. If you wou
 
 *Note on accessibility: These color palettes were customized for use by a color-blind data scientist, though we cannot guarantee usefulness for all color-blind individuals.*
 
+View the <a href="https://github.com/jmaasch/ashR/" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B">GitHub repository</font></a> for further install instructions, usage recommendations, and demo gallery.
+
 
 <p align="center">   
 <img src="https://github.com/jmaasch/ashR/blob/master/figures/density_grid2.jpg" width="700" align="middle"/>
