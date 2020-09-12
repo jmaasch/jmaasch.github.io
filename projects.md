@@ -40,17 +40,32 @@ install.packages("sanzo")
 
 Bespoke color palette packages can expedite data visualization tasks. If you would like your own bespoke package, message me at <a href="https://www.linkedin.com/in/jmaasch" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B"> www.linkedin.com/in/jmaasch</font></a>.
 
+*Note on accessibility: These color palettes were commissioned by a data scientist with color blindness, though we cannot guarantee usefulness for all individuals with color blindness.*
+
 ```R
 # Install development version.
 devtools::install_github("jmaasch/ashR")
 ```
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50045763/91103436-79404180-e639-11ea-9e45-76db3e016cd5.jpg" width="700" align="middle"/>
+<img src="https://user-images.githubusercontent.com/50045763/92998321-24c90d00-f4e7-11ea-9717-693edd4ee68a.jpg" width="700" align="middle"/>
   </p>
   
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50045763/91103101-a5a78e00-e638-11ea-88b6-1b496f01a39a.jpg" width="700" align="middle"/>
+<img src="https://user-images.githubusercontent.com/50045763/92998323-272b6700-f4e7-11ea-8202-2323c2dd650a.jpg" width="700" align="middle"/>
   </p>
 
-*Note on accessibility: These color palettes were commissioned by a data scientist with color blindness, though we cannot guarantee usefulness for all individuals with color blindness.*
+## `pennR` University of Pennsylvania Color Palettes.
+
+This package provides 13 color palettes based on the official school colors of the University of Pennsylvania. These color palettes are intended for data visualizations that must easily harmonize with Penn's official logo, e.g. conference poster figures. *Note: This package is not endorsed in any way by the University of Pennsylvania.*
+
+If you would like a custom package based on your own school colors, message me at <a href="https://www.linkedin.com/in/jmaasch" style="color: rgb(167,55,75)" target="_blank"><font color="A7374B"> www.linkedin.com/in/jmaasch</font></a>.
+
+```R
+# Install development version.
+devtools::install_github("jmaasch/pennR")
+```
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/50045763/92998320-2397e000-f4e7-11ea-9b38-b627659f0021.jpg" width="700" align="middle"/>
+  </p>
