@@ -48,11 +48,11 @@ devtools::install_github("jmaasch/ashR")
 ```
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50045763/92998321-24c90d00-f4e7-11ea-9717-693edd4ee68a.jpg" width="700" align="middle"/>
+<img src="https://user-images.githubusercontent.com/50045763/92998321-24c90d00-f4e7-11ea-9717-693edd4ee68a.jpg" align="middle"/>
   </p>
   
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50045763/92998323-272b6700-f4e7-11ea-8202-2323c2dd650a.jpg" width="700" align="middle"/>
+<img src="https://user-images.githubusercontent.com/50045763/92998323-272b6700-f4e7-11ea-8202-2323c2dd650a.jpg" align="middle"/>
   </p>
 
 ## `pennR` University of Pennsylvania Color Palettes.
@@ -67,5 +67,5 @@ devtools::install_github("jmaasch/pennR")
 ```
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50045763/92998320-2397e000-f4e7-11ea-9b38-b627659f0021.jpg" width="700" align="middle"/>
+<img src="https://user-images.githubusercontent.com/50045763/92998320-2397e000-f4e7-11ea-9b38-b627659f0021.jpg" align="middle"/>
   </p>
