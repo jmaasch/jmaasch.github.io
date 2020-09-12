@@ -48,13 +48,13 @@ devtools::install_github("jmaasch/ashR")
 ```
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50045763/92998321-24c90d00-f4e7-11ea-9717-693edd4ee68a.jpg" align="middle"/>
-  </p>
-  
-<p align="center">
 <img src="https://user-images.githubusercontent.com/50045763/92998323-272b6700-f4e7-11ea-8202-2323c2dd650a.jpg" align="middle"/>
   </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/50045763/92998321-24c90d00-f4e7-11ea-9717-693edd4ee68a.jpg" align="middle"/>
+  </p>
+  
 ## `pennR` University of Pennsylvania Color Palettes.
 
 This package provides 13 color palettes based on the official school colors of the University of Pennsylvania. These color palettes are intended for data visualizations that must easily harmonize with Penn's official logo, e.g. conference poster figures. *Note: This package is not endorsed in any way by the University of Pennsylvania.*
