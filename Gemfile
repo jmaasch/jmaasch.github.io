@@ -34,3 +34,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Just the docs theme: https://github.com/just-the-docs/just-the-docs
 gem "just-the-docs"
+
+gem "webrick", "~> 1.8"
