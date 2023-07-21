@@ -38,5 +38,6 @@ gem "webrick", "~> 1.8"
 
 # Just the docs theme: https://github.com/just-the-docs/just-the-docs
 #gem "just-the-docs"
+gem "jekyll-remote-theme"
 
 ##########################
