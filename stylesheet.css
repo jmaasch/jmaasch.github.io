@@ -40,9 +40,10 @@ h2 {
 
 .name {
   padding-top: 20px;
+  font-weight: normal;
   margin: 0;
   font-family: 'Helvetica', 'Arial', sans-serif;
-  font-size: 32px;
+  font-size: 28px;
 }
 
 .one {
