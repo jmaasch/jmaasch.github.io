@@ -1,14 +1,29 @@
+/* unvisited link */
+a:link {
+  color: #4f8fe6;
+}
+
+/* visited link */
+a:visited {
+  color: #4f8fe6;
+}
+
+/* mouse over link */
+a:focus,
+a:hover {
+  color: #9e194d;
+}
+
+/* selected link */
+a:active {
+  color: #ff788c;
+}
 
 a {
   color: #1772d0;
   text-decoration: none;
 }
 
-a:focus,
-a:hover {
-  color: #f09228;
-  text-decoration: none;
-}
 
 body,
 td,
@@ -27,9 +42,16 @@ strong {
 
 h2 {
   margin: 0;
-  font-weight: normal;
+  font-weight: bold;
   font-family: 'Helvetica', 'Arial', sans-serif;
-  font-size: 22px;
+  font-size: 18px;
+}
+
+h3 {
+  margin: 0;
+  font-weight: bold;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 14px;
 }
 
 .papertitle {
@@ -40,10 +62,10 @@ h2 {
 
 .name {
   padding-top: 20px;
-  font-weight: normal;
+  font-weight: bold;
   margin: 0;
   font-family: 'Helvetica', 'Arial', sans-serif;
-  font-size: 32px;
+  font-size: 22px;
 }
 
 .one {
@@ -68,5 +90,5 @@ h2 {
 }
 
 span.highlight {
-  background-color: #ffffd0;
+  background-color: white;
 }
