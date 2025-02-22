@@ -19,14 +19,6 @@ a:active {
   color: #97523e;
 }
 
-/* link with button border */
-a.button:link {
-    border: 2px #9e7a68;
-    padding: 2px;
-    border-radius: 3px;
-    background-color: white;
-}
-
 a {
   color: #1772d0;
   text-decoration: none;
