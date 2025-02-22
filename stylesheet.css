@@ -11,12 +11,12 @@ a:visited {
 /* mouse over link */
 a:focus,
 a:hover {
-  color: #9e194d;
+  color: #97523e;
 }
 
 /* selected link */
 a:active {
-  color: #9e7a68;
+  color: #97523e;
 }
 
 a {
@@ -26,18 +26,10 @@ a {
 
 /* link with button border */
 a.button {
-    style="border: 2px #9e7a68;
+    border: 2px #9e7a68;
     padding: 2px;
     border-radius: 3px;
-    background-color: white;"
-}
-
-/* link with button border */
-a.venue {
-    style="border: 2px #9e7a68;
-    padding: 2px;
-    border-radius: 3px;
-    background-color: white;"
+    background-color: white;
 }
 
 
