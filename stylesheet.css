@@ -1,11 +1,11 @@
 /* unvisited link */
 a:link {
-  color: #4f8fe6;
+  color: #9e7a68;
 }
 
 /* visited link */
 a:visited {
-  color: #4f8fe6;
+  color: #9e7a68;
 }
 
 /* mouse over link */
@@ -16,12 +16,20 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: #ff788c;
+  color: #9e7a68;
 }
 
 a {
   color: #1772d0;
   text-decoration: none;
+}
+
+/* link with button border */
+a.button {
+    style="border: 2px #9e7a68;
+    padding: 2px;
+    border-radius: 3px;
+    background-color: #f1f0e2;"
 }
 
 
