@@ -19,17 +19,17 @@ a:active {
   color: #97523e;
 }
 
-a {
-  color: #1772d0;
-  text-decoration: none;
-}
-
 /* link with button border */
 a.button {
     border: 2px #9e7a68;
     padding: 2px;
     border-radius: 3px;
     background-color: white;
+}
+
+a {
+  color: #1772d0;
+  text-decoration: none;
 }
 
 
@@ -46,6 +46,16 @@ a.button {
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
+}
+
+/* Set a specific color for each brand */
+.fa-github {
+  background: #9e7a68;
+  color: white;
+}
+.fa-linkedin {
+  background: #9e7a68;
+  color: white;
 }
 
 body,
