@@ -32,6 +32,8 @@ a.button:link {
     background-color: #e1d2cc;
     padding: 2px;
     border-radius: 3px;
+    font-size: 10px;
+    text-transform:uppercase;
 }
 
 /* link with button border */
@@ -42,6 +44,8 @@ a.venue:link {
     background-color: #FF9999;
     padding: 2px;
     border-radius: 3px;
+    font-size: 10px;
+    text-transform:uppercase;
 }
 
 
