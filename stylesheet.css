@@ -5,6 +5,7 @@ a {
 /* unvisited link */
 a.normal:link {
   color: #9e7a68;
+  text-decoration: none;
 }
 
 /* visited link */
@@ -48,11 +49,6 @@ a.venue:link {
 }
 
 
-/* default text color for whole site */
-* {
-  color: #56443f;
-}
-
 /* academicons and font awesome colors */
 .fa {
   padding: 20px;
@@ -78,24 +74,39 @@ a.venue:link {
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
     background-color: #9e7a68; /* Google Scholar blue */
-    border-radius: 8px; /* Rounded corners */
+    border-radius: 50%; /* 8px = Rounded corners */
     color: white; /* White icon */
     font-size: 32px; /* Adjust icon size */
     text-decoration: none;
     transition: background-color 0.3s ease;
 }
 .scholar-icon:hover {
-        color: #97523e;
+        background-color: #97523e;
 }
 
+/*
 .linkedin-icon {
     font-size: 32px; 
     color: #9e7a68; 
     text-decoration: none;
     transition: color 0.3s;
 }
+*/
+.linkedin-icon {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 48px; /* Adjust size */
+        height: 48px; /* Adjust size */
+        background-color: #9e7a68; /* LinkedIn blue */
+        border-radius: 50%; /* 8px = Rounded corners */
+        color: white; /* White icon */
+        font-size: 32px; /* Adjust icon size */
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+    }
 .linkedin-icon:hover {
-    color: #97523e;
+    background-color: #97523e;
 }
 
 /* 
@@ -113,14 +124,20 @@ a.venue:link {
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
     background-color: #9e7a68; /* Change background color */
-    border-radius: 8px; /* Rounded corners */
+    border-radius: 50%; /* 8px = Rounded corners */
     color: white; /* White icon */
     font-size: 32px; /* Adjust icon size */
     text-decoration: none;
     transition: background-color 0.3s ease;
 }
 .cv-icon:hover {
-    color: #97523e;
+    background-color: #97523e;
+}
+
+
+/* default text color for whole site */
+* {
+  color: #56443f;
 }
 
 
