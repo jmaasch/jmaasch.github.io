@@ -3,20 +3,19 @@ a {
   text-decoration: none;
 }
 
-/* unvisited link */
+/* unvisited link (Mocha mousse: #9e7a68) */
 a.normal:link {
-  color: #9e7a68;
+  color: #b48f7e;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #9e7a68;
+  color: #b48f7e;
 }
 
 /* mouse over link */
-a:focus,
-a:hover {
+a:focus, a:hover {
   color: #97523e;
 }
 
@@ -36,17 +35,23 @@ a.button:link, a.button:visited {
     font-size: 11px;
     text-transform:uppercase;
 }
+a.button:hover, a.button:active {
+  color: #97523e;
+}
 
-/* link with button border */
+/* link with button border (background-color: #d1907d) */
 a.venue:link, a.venue:visited {
     color: #56443f;
     border: 1.5px solid #56443f;
     border-color: #56443f;
-    background-color: #d1907d;
+    background-color: #d99b89;
     padding: 2px;
     border-radius: 3px;
     font-size: 11px;
     text-transform:uppercase;
+}
+a.venue:hover, a.venue:active {
+  color: #97523e;
 }
 
 
@@ -65,7 +70,7 @@ a.venue:link, a.venue:visited {
 /*
 .scholar-icon {
     font-size: 30px;
-    color: #9e7a68; 
+    color: #b48f7e; 
     text-decoration: none;
     transition: color 0.3s;
 }
@@ -87,16 +92,17 @@ a.scholar-icon {
 a.scholar-icon:link {
   color: white;
 }
-a.scholar-icon:hover {
+a.scholar-icon:hover, a.scholar-icon:active {
     background-color: #97523e;
-    color: white; /* White icon */
-    fill: white;
+}
+a.scholar-icon:visited {
+    background-color: #e1d2cc;
 }
 
 /*
 .linkedin-icon {
     font-size: 30px; 
-    color: #9e7a68; 
+    color: #b48f7e; 
     text-decoration: none;
     transition: color 0.3s;
 }
@@ -118,16 +124,17 @@ a.linkedin-icon {
 a.linkedin-icon:link {
   color: white;
 }
-a.linkedin-icon:hover {
+a.linkedin-icon:hover, a.linkedin-icon:active {
     background-color: #97523e;
-    color: white; /* White icon */
-    fill: white;
+}
+a.linkedin-icon:visited {
+    background-color: #e1d2cc;
 }
 
 /* 
 .cv-icon {
     font-size: 30px; 
-    color: #9e7a68; 
+    color: #b48f7e; 
     text-decoration: none;
     transition: color 0.3s;
 }
@@ -149,10 +156,11 @@ a.cv-icon {
 a.cv-icon:link {
   color: white;
 }
-a.cv-icon:hover {
+a.cv-icon:hover, a.cv-icon:active {
     background-color: #97523e;
-    color: white; /* White icon */
-    fill: white;
+}
+a.cv-icon:visited {
+    background-color: #e1d2cc;
 }
 
 
