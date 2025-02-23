@@ -26,7 +26,7 @@ a:active {
 }
 
 /* link with button border */
-a.button:link {
+a.button:link, a.button:visited {
     color: #56443f;
     border: 1.5px solid #56443f;
     border-color: #56443f;
@@ -38,7 +38,7 @@ a.button:link {
 }
 
 /* link with button border */
-a.venue:link {
+a.venue:link, a.venue:visited {
     color: #56443f;
     border: 1.5px solid #56443f;
     border-color: #56443f;
