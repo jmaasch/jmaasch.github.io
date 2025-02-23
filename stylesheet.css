@@ -1,8 +1,8 @@
 /* unvisited link */
 a:link {
   color: #9e7a68;
-  text-decoration: wavy underline;
-  text-decoration-color: #9e7a68;
+  /*text-decoration: wavy underline;
+  text-decoration-color: #9e7a68;*/
 }
 
 /* visited link */
@@ -51,8 +51,8 @@ a.venue:link {
   color: #56443f
 }
 
-/* academicons colors */
-.ai {
+/* academicons and font awesome colors */
+.fa {
   padding: 20px;
   font-size: 30px;
   width: 30px;
