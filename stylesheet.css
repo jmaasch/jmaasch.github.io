@@ -1,8 +1,10 @@
+a {
+  text-decoration: none;
+}
+
 /* unvisited link */
 a:link {
   color: #9e7a68;
-  /*text-decoration: wavy underline;
-  text-decoration-color: #9e7a68;*/
 }
 
 /* visited link */
