@@ -63,11 +63,26 @@ a.venue:link {
   border-radius: 50%;
 }
 
+/*
 .scholar-icon {
     font-size: 32px;
     color: #9e7a68; 
     text-decoration: none;
     transition: color 0.3s;
+}
+*/
+.scholar-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px; /* Adjust size */
+    height: 48px; /* Adjust size */
+    background-color: #9e7a68; /* Google Scholar blue */
+    border-radius: 8px; /* Rounded corners */
+    color: white; /* White icon */
+    font-size: 32px; /* Adjust icon size */
+    text-decoration: none;
+    transition: background-color 0.3s ease;
 }
 .scholar-icon:hover {
         color: #97523e;
@@ -83,11 +98,26 @@ a.venue:link {
     color: #97523e;
 }
 
+/* 
 .cv-icon {
     font-size: 32px; 
     color: #9e7a68; 
     text-decoration: none;
     transition: color 0.3s;
+}
+*/
+.cv-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px; /* Adjust size */
+    height: 48px; /* Adjust size */
+    background-color: #9e7a68; /* Change background color */
+    border-radius: 8px; /* Rounded corners */
+    color: white; /* White icon */
+    font-size: 32px; /* Adjust icon size */
+    text-decoration: none;
+    transition: background-color 0.3s ease;
 }
 .cv-icon:hover {
     color: #97523e;
