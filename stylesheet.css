@@ -1,6 +1,8 @@
 /* unvisited link */
 a:link {
   color: #9e7a68;
+  text-decoration: wavy underline;
+  text-decoration-color: #9e7a68;
 }
 
 /* visited link */
@@ -17,11 +19,6 @@ a:hover {
 /* selected link */
 a:active {
   color: #97523e;
-}
-
-a {
-  color: #1772d0;
-  text-decoration: none;
 }
 
 /* link with button border */
@@ -66,7 +63,7 @@ a.venue:link {
 
 .scholar-icon {
     font-size: 32px;
-    color: #56443f; 
+    color: #9e7a68; 
     text-decoration: none;
     transition: color 0.3s;
 }
@@ -76,7 +73,7 @@ a.venue:link {
 
 .linkedin-icon {
     font-size: 32px; 
-    color: #56443f; 
+    color: #9e7a68; 
     text-decoration: none;
     transition: color 0.3s;
 }
@@ -86,7 +83,7 @@ a.venue:link {
 
 .cv-icon {
     font-size: 32px; 
-    color: #56443f; 
+    color: #9e7a68; 
     text-decoration: none;
     transition: color 0.3s;
 }
