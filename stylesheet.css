@@ -76,7 +76,7 @@ a.scholar-icon {
     justify-content: center;
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
-    background-color: #56443f; /* Google Scholar blue */
+    background-color: #e1d2cc; /* Google Scholar blue */
     border-radius: 50%; /* 8px = Rounded corners */
     color: white; /* White icon */
     fill: white;
@@ -107,7 +107,7 @@ a.linkedin-icon {
         justify-content: center;
         width: 48px; /* Adjust size */
         height: 48px; /* Adjust size */
-        background-color: #56443f; /* LinkedIn blue */
+        background-color: #e1d2cc; /* LinkedIn blue */
         border-radius: 50%; /* 8px = Rounded corners */
         color: white; /* White icon */
         fill: white;
@@ -138,7 +138,7 @@ a.cv-icon {
     justify-content: center;
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
-    background-color: #56443f; /* Change background color */
+    background-color: #e1d2cc; /* Change background color */
     border-radius: 50%; /* 8px = Rounded corners */
     color: white; /* White icon */
     fill: white;
