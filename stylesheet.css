@@ -28,7 +28,7 @@ a:active {
 /* link with button border */
 a.button:link {
     color: #56443f;
-    border: 1.5px solid;
+    border: 1.5px;
     border-color: #56443f;
     background-color: #e1d2cc;
     padding: 2px;
@@ -40,7 +40,7 @@ a.button:link {
 /* link with button border */
 a.venue:link {
     color: #56443f;
-    border: 1.5px solid;
+    border: 1.5px;
     border-color: #56443f;
     background-color: #EF98AA;
     padding: 2px;
