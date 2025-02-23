@@ -1,11 +1,11 @@
 /* unvisited link */
 a:link {
-  color: #56443f;
+  color: #9e7a68;
 }
 
 /* visited link */
 a:visited {
-  color: #56443f;
+  color: #9e7a68;
 }
 
 /* mouse over link */
@@ -26,7 +26,7 @@ a {
 
 /* link with button border */
 a.button:link {
-    color: #56443f;
+    color: #9e7a68;
     border: 1.5px solid;
     border-color: #56443f;
     background-color: #e1d2cc;
@@ -51,7 +51,7 @@ a.venue:link {
 
 /* default text color for whole site */
 * {
-  color: #9e7a68
+  color: #56443f
 }
 
 /* font awesome colors */
@@ -65,14 +65,17 @@ a.venue:link {
 }
 
 .scholar-icon {
-    font-size: 32px; /* Adjust size */
-    color: #9e7a68; /* Default Google Scholar blue */
+    font-size: 32px;
+    color: #56443f; 
     text-decoration: none;
     transition: color 0.3s;
 }
 
-.scholar-icon:hover {
-    color: #97523e; /* Change color on hover */
+.linkedin-icon {
+        font-size: 32px; 
+        color: #56443f; 
+        text-decoration: none;
+        transition: color 0.3s;
 }
 
 body,
