@@ -26,18 +26,20 @@ a {
 
 /* link with button border */
 a.button:link {
-    border: 1px solid;
+    color: #9e7a68;
+    border: 1.5px solid;
     border-color: #9e7a68;
-    background-color: white;
+    background-color: #e1d2cc;
     padding: 2px;
     border-radius: 3px;
 }
 
 /* link with button border */
 a.venue:link {
-    border: 1px solid;
-    border-color: #9e7a68;
-    background-color: white;
+    color: #8B0000;
+    border: 1.5px solid;
+    border-color: #8B0000;
+    background-color: #FF9999;
     padding: 2px;
     border-radius: 3px;
 }
