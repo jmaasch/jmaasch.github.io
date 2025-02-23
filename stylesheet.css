@@ -84,8 +84,13 @@ a.venue:link {
     text-decoration: none;
     transition: background-color 0.3s ease;
 }
+.scholar-icon:link {
+  color: white;
+}
 .scholar-icon:hover {
-        background-color: #97523e;
+    background-color: #97523e;
+    color: white; /* White icon */
+    fill: white;
 }
 
 /*
@@ -110,8 +115,13 @@ a.venue:link {
         text-decoration: none;
         transition: background-color 0.3s ease;
     }
+.linkedin-icon:link {
+  color: white;
+}
 .linkedin-icon:hover {
     background-color: #97523e;
+    color: white; /* White icon */
+    fill: white;
 }
 
 /* 
@@ -136,16 +146,20 @@ a.venue:link {
     text-decoration: none;
     transition: background-color 0.3s ease;
 }
+.cv-icon:link {
+  color: white;
+}
 .cv-icon:hover {
     background-color: #97523e;
+    color: white; /* White icon */
+    fill: white;
 }
 
 
-/* default text color for whole site 
+/* default text color for whole site */
 * {
   color: #56443f;
 }
-*/
 
 body,
 td,
