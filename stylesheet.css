@@ -70,7 +70,7 @@ a.venue:link {
     transition: color 0.3s;
 }
 */
-.scholar-icon {
+a.scholar-icon {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -84,10 +84,10 @@ a.venue:link {
     text-decoration: none;
     transition: background-color 0.3s ease;
 }
-.scholar-icon:link {
+a.scholar-icon:link {
   color: white;
 }
-.scholar-icon:hover {
+a.scholar-icon:hover {
     background-color: #97523e;
     color: white; /* White icon */
     fill: white;
@@ -101,7 +101,7 @@ a.venue:link {
     transition: color 0.3s;
 }
 */
-.linkedin-icon {
+a.linkedin-icon {
         display: inline-flex;
         align-items: center;
         justify-content: center;
@@ -115,10 +115,10 @@ a.venue:link {
         text-decoration: none;
         transition: background-color 0.3s ease;
     }
-.linkedin-icon:link {
+a.linkedin-icon:link {
   color: white;
 }
-.linkedin-icon:hover {
+a.linkedin-icon:hover {
     background-color: #97523e;
     color: white; /* White icon */
     fill: white;
@@ -132,7 +132,7 @@ a.venue:link {
     transition: color 0.3s;
 }
 */
-.cv-icon {
+a.cv-icon {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -146,10 +146,10 @@ a.venue:link {
     text-decoration: none;
     transition: background-color 0.3s ease;
 }
-.cv-icon:link {
+a.cv-icon:link {
   color: white;
 }
-.cv-icon:hover {
+a.cv-icon:hover {
     background-color: #97523e;
     color: white; /* White icon */
     fill: white;
