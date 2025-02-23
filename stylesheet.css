@@ -51,6 +51,7 @@ a.venue:link {
 
 
 /* academicons and font awesome colors */
+/* 
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -59,6 +60,7 @@ a.venue:link {
   text-decoration: none;
   border-radius: 50%;
 }
+*/
 
 /*
 .scholar-icon {
@@ -74,9 +76,10 @@ a.venue:link {
     justify-content: center;
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
-    background-color: #9e7a68; /* Google Scholar blue */
+    background-color: #56443f; /* Google Scholar blue */
     border-radius: 50%; /* 8px = Rounded corners */
     color: white; /* White icon */
+    fill: white;
     font-size: 32px; /* Adjust icon size */
     text-decoration: none;
     transition: background-color 0.3s ease;
@@ -99,9 +102,10 @@ a.venue:link {
         justify-content: center;
         width: 48px; /* Adjust size */
         height: 48px; /* Adjust size */
-        background-color: #9e7a68; /* LinkedIn blue */
+        background-color: #56443f; /* LinkedIn blue */
         border-radius: 50%; /* 8px = Rounded corners */
         color: white; /* White icon */
+        fill: white;
         font-size: 32px; /* Adjust icon size */
         text-decoration: none;
         transition: background-color 0.3s ease;
@@ -124,9 +128,10 @@ a.venue:link {
     justify-content: center;
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
-    background-color: #9e7a68; /* Change background color */
+    background-color: #56443f; /* Change background color */
     border-radius: 50%; /* 8px = Rounded corners */
     color: white; /* White icon */
+    fill: white;
     font-size: 32px; /* Adjust icon size */
     text-decoration: none;
     transition: background-color 0.3s ease;
