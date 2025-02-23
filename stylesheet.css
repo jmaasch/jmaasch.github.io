@@ -64,7 +64,7 @@ a.venue:link {
 
 /*
 .scholar-icon {
-    font-size: 32px;
+    font-size: 30px;
     color: #9e7a68; 
     text-decoration: none;
     transition: color 0.3s;
@@ -80,7 +80,7 @@ a.venue:link {
     border-radius: 50%; /* 8px = Rounded corners */
     color: white; /* White icon */
     fill: white;
-    font-size: 32px; /* Adjust icon size */
+    font-size: 30px; /* Adjust icon size */
     text-decoration: none;
     transition: background-color 0.3s ease;
 }
@@ -95,7 +95,7 @@ a.venue:link {
 
 /*
 .linkedin-icon {
-    font-size: 32px; 
+    font-size: 30px; 
     color: #9e7a68; 
     text-decoration: none;
     transition: color 0.3s;
@@ -111,7 +111,7 @@ a.venue:link {
         border-radius: 50%; /* 8px = Rounded corners */
         color: white; /* White icon */
         fill: white;
-        font-size: 32px; /* Adjust icon size */
+        font-size: 30px; /* Adjust icon size */
         text-decoration: none;
         transition: background-color 0.3s ease;
     }
@@ -126,7 +126,7 @@ a.venue:link {
 
 /* 
 .cv-icon {
-    font-size: 32px; 
+    font-size: 30px; 
     color: #9e7a68; 
     text-decoration: none;
     transition: color 0.3s;
@@ -142,7 +142,7 @@ a.venue:link {
     border-radius: 50%; /* 8px = Rounded corners */
     color: white; /* White icon */
     fill: white;
-    font-size: 32px; /* Adjust icon size */
+    font-size: 30px; /* Adjust icon size */
     text-decoration: none;
     transition: background-color 0.3s ease;
 }
