@@ -70,13 +70,30 @@ a.venue:link {
     text-decoration: none;
     transition: color 0.3s;
 }
+.scholar-icon:hover {
+        color: #97523e;
+}
 
 .linkedin-icon {
-        font-size: 32px; 
-        color: #56443f; 
-        text-decoration: none;
-        transition: color 0.3s;
+    font-size: 32px; 
+    color: #56443f; 
+    text-decoration: none;
+    transition: color 0.3s;
 }
+.linkedin-icon:hover {
+    color: #97523e;
+}
+
+.cv-icon {
+    font-size: 32px; 
+    color: #56443f; 
+    text-decoration: none;
+    transition: color 0.3s;
+}
+.cv-icon:hover {
+    color: #97523e;
+}
+
 
 body,
 td,
