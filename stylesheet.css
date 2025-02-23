@@ -161,6 +161,13 @@ a.cv-icon:hover {
   color: #56443f;
 }
 
+/* custom bullets */
+ul li:before
+{
+    content: "&#10036";
+    margin: 0 1em;    /* any design */
+}
+
 body,
 td,
 th,
