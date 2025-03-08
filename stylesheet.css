@@ -11,13 +11,13 @@ a {
 
 /* unvisited link (Mocha mousse: #9e7a68) */
 a.normal:link {
-  color: #b48f7e;
+  color: #e1d2cc;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #b48f7e;
+  color: #e1d2cc;
 }
 
 /* mouse over link */
@@ -101,9 +101,6 @@ a.scholar-icon:link {
 a.scholar-icon:hover, a.scholar-icon:active {
     background-color: #97523e;
 }
-a.scholar-icon:visited {
-    background-color: #e1d2cc;
-}
 
 /*
 .linkedin-icon {
@@ -133,9 +130,6 @@ a.linkedin-icon:link {
 a.linkedin-icon:hover, a.linkedin-icon:active {
     background-color: #97523e;
 }
-a.linkedin-icon:visited {
-    background-color: #e1d2cc;
-}
 
 /* 
 .cv-icon {
@@ -164,9 +158,6 @@ a.cv-icon:link {
 }
 a.cv-icon:hover, a.cv-icon:active {
     background-color: #97523e;
-}
-a.cv-icon:visited {
-    background-color: #e1d2cc;
 }
 
 
