@@ -11,13 +11,13 @@ a {
 
 /* unvisited link (Mocha mousse: #9e7a68) */
 a.normal:link {
-  color: #e1d2cc;
+  color: #9e7a68;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #e1d2cc;
+  color: #9e7a68;
 }
 
 /* mouse over link */
