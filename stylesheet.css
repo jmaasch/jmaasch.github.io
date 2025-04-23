@@ -4,60 +4,67 @@ https://kidspattern.com/pantone/fhi-cotton-tcx/pantone-17-1230-tcx-mocha-mousse/
 https://www.pantone.com/color-of-the-year/2025?srsltid=AfmBOoqwXlKHpmsUD_rApP98WwL08D9OFT3sdA-JUgolij262l7rB2GE
 */
 
+:root {
+  --maincol:#000000;
+  --linkcol:#A1CAF1;
+  --pubcol:#F4C2C2;
+  --buttoncol:#EFDECD;
+}
+
 a {
-  color: #56443f;
+  color: var(--maincol);
   text-decoration: none;
 }
 
 /* unvisited link (Mocha mousse: #9e7a68) */
 a.normal:link {
-  color: #9e7a68;
+  color: var(--linkcol);
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #9e7a68;
+  color: var(--linkcol);
 }
 
 /* mouse over link */
 a:focus, a:hover {
-  color: #97523e;
+  color: var(--pubcol);
 }
 
 /* selected link */
 a:active {
-  color: #97523e;
+  color: var(--pubcol);
 }
 
 /* link with button border */
 a.button:link, a.button:visited {
-    color: #56443f;
-    border: 1.5px solid #56443f;
-    border-color: #56443f;
-    background-color: #e1d2cc;
+    color: var(--maincol);
+    border: 1.5px solid var(--maincol);
+    border-color: var(--maincol);
+    background-color: var(--buttoncol);
     padding: 2px;
     border-radius: 3px;
     font-size: 11px;
     text-transform:uppercase;
 }
 a.button:hover, a.button:active {
-  color: #97523e;
+  color: var(--linkcol);
 }
 
 /* link with button border (background-color: #d1907d) */
 a.venue:link, a.venue:visited {
-    color: #56443f;
-    border: 1.5px solid #56443f;
-    border-color: #56443f;
-    background-color: #d99b89;
+    color: var(--maincol);
+    border: 1.5px solid var(--maincol);
+    border-color: var(--maincol);
+    background-color: var(--pubcol);
     padding: 2px;
     border-radius: 3px;
     font-size: 11px;
     text-transform:uppercase;
 }
 a.venue:hover, a.venue:active {
-  color: #97523e;
+  color: var(--linkcol);
 }
 
 
@@ -87,7 +94,7 @@ a.scholar-icon {
     justify-content: center;
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
-    background-color: #e1d2cc; /* Google Scholar blue */
+    background-color: var(--buttoncol); /* Google Scholar blue */
     border-radius: 50%; /* 8px = Rounded corners */
     color: white; /* White icon */
     fill: white;
@@ -99,7 +106,7 @@ a.scholar-icon:link {
   color: white;
 }
 a.scholar-icon:hover, a.scholar-icon:active {
-    background-color: #97523e;
+    background-color: var(--pubcol);
 }
 
 /*
@@ -116,7 +123,7 @@ a.linkedin-icon {
         justify-content: center;
         width: 48px; /* Adjust size */
         height: 48px; /* Adjust size */
-        background-color: #e1d2cc; /* LinkedIn blue */
+        background-color: var(--buttoncol); /* LinkedIn blue */
         border-radius: 50%; /* 8px = Rounded corners */
         color: white; /* White icon */
         fill: white;
@@ -128,7 +135,7 @@ a.linkedin-icon:link {
   color: white;
 }
 a.linkedin-icon:hover, a.linkedin-icon:active {
-    background-color: #97523e;
+    background-color: var(--pubcol);
 }
 
 /* 
@@ -145,7 +152,7 @@ a.cv-icon {
     justify-content: center;
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
-    background-color: #e1d2cc; /* Change background color */
+    background-color: var(--buttoncol); /* Change background color */
     border-radius: 50%; /* 8px = Rounded corners */
     color: white; /* White icon */
     fill: white;
@@ -157,13 +164,13 @@ a.cv-icon:link {
   color: white;
 }
 a.cv-icon:hover, a.cv-icon:active {
-    background-color: #97523e;
+    background-color: var(--pubcol);
 }
 
 
 /* default text color for whole site */
 * {
-  color: #56443f;
+  color: var(--maincol);
 }
 
 
