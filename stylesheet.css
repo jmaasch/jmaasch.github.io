@@ -40,7 +40,7 @@ a:active {
 /* link with button border */
 a.button:link, a.button:visited {
     color: var(--maincol);
-    border: 1.5px solid var(--maincol);
+    border: 1px solid var(--maincol);
     border-color: var(--maincol);
     background-color: var(--buttoncol);
     padding: 2px;
@@ -55,7 +55,7 @@ a.button:hover, a.button:active {
 /* link with button border (background-color: #d1907d) */
 a.venue:link, a.venue:visited {
     color: var(--maincol);
-    border: 1.5px solid var(--maincol);
+    border: 1px solid var(--maincol);
     border-color: var(--maincol);
     background-color: var(--pubcol);
     padding: 2px;
@@ -95,7 +95,7 @@ a.scholar-icon {
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
     background-color: var(--buttoncol); /* Google Scholar blue */
-    border: 1.5px solid var(--maincol);
+    border: 1px solid var(--maincol);
     border-color: var(--maincol);
     border-radius: 8px; /* 8px = Rounded corners ; 50% = round */
     color: white; /* White icon */
@@ -126,7 +126,7 @@ a.linkedin-icon {
         width: 48px; /* Adjust size */
         height: 48px; /* Adjust size */
         background-color: var(--buttoncol); /* LinkedIn blue */
-        border: 1.5px solid var(--maincol);
+        border: 1px solid var(--maincol);
         border-color: var(--maincol);
         border-radius: 8px; /* 8px = Rounded corners */
         color: white; /* White icon */
@@ -157,7 +157,7 @@ a.cv-icon {
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
     background-color: var(--buttoncol); /* Change background color */
-    border: 1.5px solid var(--maincol);
+    border: 1px solid var(--maincol);
     border-color: var(--maincol);
     border-radius: 8px; /* 8px = Rounded corners */
     color: white; /* White icon */
