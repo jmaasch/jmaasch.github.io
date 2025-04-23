@@ -8,7 +8,7 @@ https://www.pantone.com/color-of-the-year/2025?srsltid=AfmBOoqwXlKHpmsUD_rApP98W
   --maincol:#000000;
   --linkcol:#446CCF;
   --pubcol:#FFF0F5;
-  --buttoncol:#FAFAD2;
+  --buttoncol:#F5FFFA;
 }
 
 a {
@@ -95,7 +95,8 @@ a.scholar-icon {
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
     background-color: var(--buttoncol); /* Google Scholar blue */
-    border-radius: 50%; /* 8px = Rounded corners */
+    border-color: var(--maincol);
+    border-radius: 8px; /* 8px = Rounded corners ; 50% = round */
     color: white; /* White icon */
     fill: white;
     font-size: 30px; /* Adjust icon size */
@@ -124,7 +125,8 @@ a.linkedin-icon {
         width: 48px; /* Adjust size */
         height: 48px; /* Adjust size */
         background-color: var(--buttoncol); /* LinkedIn blue */
-        border-radius: 50%; /* 8px = Rounded corners */
+        border-color: var(--maincol);
+        border-radius: 8px; /* 8px = Rounded corners */
         color: white; /* White icon */
         fill: white;
         font-size: 30px; /* Adjust icon size */
@@ -153,7 +155,8 @@ a.cv-icon {
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
     background-color: var(--buttoncol); /* Change background color */
-    border-radius: 50%; /* 8px = Rounded corners */
+    border-color: var(--maincol);
+    border-radius: 8px; /* 8px = Rounded corners */
     color: white; /* White icon */
     fill: white;
     font-size: 30px; /* Adjust icon size */
