@@ -7,7 +7,7 @@ https://www.pantone.com/color-of-the-year/2025?srsltid=AfmBOoqwXlKHpmsUD_rApP98W
 :root {
   --maincol:#000000;
   --linkcol:#446CCF;
-  --pubcol:#FFF0F5;
+  --pubcol:#FFE4E1;
   --buttoncol:#F4F0EC;
 }
 
@@ -95,6 +95,7 @@ a.scholar-icon {
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
     background-color: var(--buttoncol); /* Google Scholar blue */
+    border: 1.5px solid var(--maincol);
     border-color: var(--maincol);
     border-radius: 8px; /* 8px = Rounded corners ; 50% = round */
     color: white; /* White icon */
@@ -125,6 +126,7 @@ a.linkedin-icon {
         width: 48px; /* Adjust size */
         height: 48px; /* Adjust size */
         background-color: var(--buttoncol); /* LinkedIn blue */
+        border: 1.5px solid var(--maincol);
         border-color: var(--maincol);
         border-radius: 8px; /* 8px = Rounded corners */
         color: white; /* White icon */
@@ -155,6 +157,7 @@ a.cv-icon {
     width: 48px; /* Adjust size */
     height: 48px; /* Adjust size */
     background-color: var(--buttoncol); /* Change background color */
+    border: 1.5px solid var(--maincol);
     border-color: var(--maincol);
     border-radius: 8px; /* 8px = Rounded corners */
     color: white; /* White icon */
