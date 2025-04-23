@@ -8,7 +8,7 @@ https://www.pantone.com/color-of-the-year/2025?srsltid=AfmBOoqwXlKHpmsUD_rApP98W
   --maincol:#000000;
   --linkcol:#446CCF;
   --pubcol:#FFF0F5;
-  --buttoncol:#F5FFFA;
+  --buttoncol:#F4F0EC;
 }
 
 a {
@@ -29,12 +29,12 @@ a:visited {
 
 /* mouse over link */
 a:focus, a:hover {
-  color: var(--pubcol);
+  color: var(--linkcol);
 }
 
 /* selected link */
 a:active {
-  color: var(--pubcol);
+  color: var(--linkcol);
 }
 
 /* link with button border */
