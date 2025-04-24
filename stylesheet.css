@@ -49,7 +49,7 @@ a.button:link, a.button:visited {
     text-transform:uppercase;
 }
 a.button:hover, a.button:active {
-  color: var(--linkcol);
+  background-color: var(--pubcol);
 }
 
 /* link with button border (background-color: #d1907d) */
@@ -64,7 +64,7 @@ a.venue:link, a.venue:visited {
     text-transform:uppercase;
 }
 a.venue:hover, a.venue:active {
-  color: var(--linkcol);
+  background-color: #DDADAF;
 }
 
 
