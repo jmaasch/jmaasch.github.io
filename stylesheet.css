@@ -173,6 +173,29 @@ a.cv-icon:hover, a.cv-icon:active {
     background-color: var(--pubcol);
 }
 
+a.github-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px; /* Adjust size */
+    height: 48px; /* Adjust size */
+    background-color: var(--buttoncol); /* Change background color */
+    border: 1px solid var(--maincol);
+    border-color: var(--maincol);
+    border-radius: 8px; /* 8px = Rounded corners */
+    color: white; /* White icon */
+    fill: white;
+    font-size: 30px; /* Adjust icon size */
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+a.github-icon:link {
+  color: white;
+}
+a.github-icon:hover, a.github-icon:active {
+    background-color: var(--pubcol);
+}
+
 
 /* default text color for whole site */
 * {
