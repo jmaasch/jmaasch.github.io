@@ -5,6 +5,7 @@
   --linkcol:#446CCF;
   --pubcol:#746CC0;
   --buttoncol: white;
+  --bordercol: #DCDCDC;
 }
 
 #box {
@@ -44,10 +45,10 @@ a:active {
 a.button:link, a.button:visited {
   color: var(--maincol);
   border: 1px solid var(--maincol);
-  border-color: white;
+  border-color: var(--bordercol);
   background-color: var(--buttoncol);
-  padding: 2px;
-  border-radius: 1px;
+  padding: 3px;
+  border-radius: 2px;
   font-size: 11px;
   text-transform:uppercase;
 }
@@ -58,12 +59,6 @@ a.button:hover, a.button:active {
 /* link with button border (background-color: #d1907d) */
 a.venue:link, a.venue:visited {
   color: var(--pubcol);
-  border: 1px solid var(--pubcol);
-  border-color: white;
-  background-color: var(--buttoncol);
-  padding: 2px;
-  border-radius: 1px;
-  font-size: 11px;
   text-transform:uppercase;
 }
 a.venue:hover, a.venue:active {
