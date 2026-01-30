@@ -32,7 +32,7 @@ a:visited {
 
 /* mouse over link */
 a:focus, a:hover {
-  color: var(--linkcol);
+  color: var(--pubcol);
 }
 
 /* selected link */
@@ -44,7 +44,7 @@ a:active {
 a.button:link, a.button:visited {
   color: var(--maincol);
   border: 1px solid var(--maincol);
-  border-color: var(--maincol);
+  border-color: white;
   background-color: var(--buttoncol);
   padding: 2px;
   border-radius: 1px;
@@ -59,7 +59,7 @@ a.button:hover, a.button:active {
 a.venue:link, a.venue:visited {
   color: var(--pubcol);
   border: 1px solid var(--pubcol);
-  border-color: var(--maincol);
+  border-color: white;
   background-color: var(--buttoncol);
   padding: 2px;
   border-radius: 1px;
@@ -69,6 +69,139 @@ a.venue:link, a.venue:visited {
 a.venue:hover, a.venue:active {
   color: #A020F0;
 }
+
+/* academicons and font awesome colors */
+/* 
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+*/
+
+/*
+.scholar-icon {
+    font-size: 40px;
+    color: #b48f7e; 
+    text-decoration: none;
+    transition: color 0.3s;
+}
+*/
+a.scholar-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px; /* Adjust size */
+  height: 48px; /* Adjust size */
+  background-color: var(--buttoncol); /* Google Scholar blue */
+  border: 1px solid var(--maincol);
+  border-color: white;
+  border-radius: 3px; /* 8px = Rounded corners ; 50% = round */
+  color: var(--maincol); /* White icon */
+  fill: white;
+  font-size: 40px; /* Adjust icon size */
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+a.scholar-icon:link {
+  color: var(--maincol);
+}
+a.scholar-icon:hover, a.scholar-icon:active {
+  background-color: var(--buttoncol);
+  color: var(--pubcol);
+}
+
+/*
+.linkedin-icon {
+  font-size: 40px; 
+  color: #b48f7e; 
+  text-decoration: none;
+  transition: color 0.3s;
+}
+*/
+a.linkedin-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 48px; /* Adjust size */
+      height: 48px; /* Adjust size */
+      background-color: var(--buttoncol); /* LinkedIn blue */
+      border: 1px solid var(--maincol);
+      border-color: white;
+      border-radius: 3px; /* 8px = Rounded corners */
+      color: var(--maincol); /* White icon */
+      fill: white;
+      font-size: 40px; /* Adjust icon size */
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+  }
+a.linkedin-icon:link {
+color: var(--maincol);
+}
+a.linkedin-icon:hover, a.linkedin-icon:active {
+  background-color: var(--buttoncol);
+  color: var(--pubcol);
+}
+
+/* 
+.cv-icon {
+  font-size: 40px; 
+  color: #b48f7e; 
+  text-decoration: none;
+  transition: color 0.3s;
+}
+*/
+a.cv-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px; /* Adjust size */
+  height: 48px; /* Adjust size */
+  background-color: var(--buttoncol); /* Change background color */
+  border: 1px solid var(--maincol);
+  border-color: white;
+  border-radius: 3px; /* 8px = Rounded corners */
+  color: var(--maincol); /* White icon */
+  fill: white;
+  font-size: 40px; /* Adjust icon size */
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+a.cv-icon:link {
+color: var(--maincol);
+}
+a.cv-icon:hover, a.cv-icon:active {
+  background-color: var(--buttoncol);
+  color: var(--pubcol);
+}
+
+a.github-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px; /* Adjust size */
+  height: 48px; /* Adjust size */
+  background-color: var(--buttoncol); /* Change background color */
+  border: 1px solid var(--maincol);
+  border-color: white;
+  border-radius: 3px; /* 8px = Rounded corners */
+  color: var(--maincol); /* White icon */
+  fill: white;
+  font-size: 40px; /* Adjust icon size */
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+a.github-icon:link {
+color: var(--maincol);
+}
+a.github-icon:hover, a.github-icon:active {
+  background-color: var(--buttoncol);
+  color: var(--pubcol);
+}
+
 
 /*-------------------------- END JM --------------------------*/
 
@@ -117,7 +250,7 @@ body {
 .teaser .hero-body {
   padding-top: 0;
   padding-bottom: 3rem;
-  background-color: white;
+  background-color: var(--maincol);
 }
 
 .teaser {
@@ -142,7 +275,7 @@ body {
 }
 
 .publication-header .hero-body {
-  background-color: white;
+  background-color: var(--maincol);
 }
 
 .publication-title {
