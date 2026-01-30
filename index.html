@@ -1,377 +1,280 @@
-<!DOCTYPE HTML>
-<html lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="Jacqueline R. M. A. Maasch">
+  <meta property="og:title" content="Jacqueline R. M. A. Maasch"/>
+  <meta property="og:description" content="Jacqueline R. M. A. Maasch"/>
+  <meta property="og:url" content="https://jmaasch.github.io/"/>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/image/pch.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
 
-    <title>Jacqueline R. M. A. Maasch</title>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600
+  <meta name="twitter:title" content="Jacqueline R. M. A. Maasch">
+  <meta name="twitter:description" content="Jacqueline R. M. A. Maasch">
+  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:card" content="summary_large_image">
+-->
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="reasoning, language models, large language models, large reasoning models, generative ai, ai evaluation, logic, epistemology, construct validity">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="author" content="Jacqueline R. M. A. Maasch">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Cache control -->
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
-    <meta http-equiv="Pragma" content="no-cache" />
-    <meta http-equiv="Expires" content="0" />
+  <title>Jacqueline R. M. A. Maasch</title>
+  <link rel="icon" type="image/x-icon" href="static/images/brain.png">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
 
-    <!-- Code blocks -->
-    <link rel="stylesheet"
-      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
-      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-    <script>hljs.highlightAll();</script>
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
 
-    <!-- Add icon library -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.1/css/academicons.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
 
-    <!-- JS D3 -->
-    <meta charset="utf-8">
-    <script src="https://d3js.org/d3.v4.min.js"></script>
-    <script src="https://d3js.org/d3-timer.v1.min.js"></script>
+  <script type="text/javascript"
+  src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
+  </script>
+</head>
+<body>
 
-    <link rel="stylesheet" type="text/css" href="stylesheet.css">
-    <!--
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
-    -->
-    <link rel="icon"
-      type="image/png"
-      href="data/brain.png">
-  </head>
 
-  <body>
-    <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-        <!-- START: INSERT D3
-          <div id="container" class="svg-container"></div>
-        END: INSERT D3 -->
-      <tr style="padding:0px">
-        <td style="padding:0px">
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-            <tr style="padding:0px">
-              <td style="padding:2.5%;width:70%;vertical-align:middle">
-                <p class="name" style="text-align: center;">
-                  JACQUELINE R. M. A. MAASCH
-                </p>
-                <p class="name" style="text-align: center;">
-                  <a href="data/cv.pdf" target="_blank" class="cv-icon">
-                      <i class="ai ai-cv"></i>
-                  </a>&nbsp;&nbsp;&nbsp;
-                  <a href="https://www.linkedin.com/in/jmaasch/" target="_blank" class="linkedin-icon">
-                      <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
-                  </a>&nbsp;&nbsp;&nbsp;
-                  <a href="https://scholar.google.com/citations?hl=en&user=5l9n9J8AAAAJ&view_op=list_works&authuser=1&sortby=pubdate" target="_blank" class="scholar-icon">
-                    <!--<i class="fa-solid fa-graduation-cap"></i>-->
-                    <i class="ai ai-google-scholar"></i>
-                  </a>&nbsp;&nbsp;&nbsp;
-                  <a href="https://github.com/jmaasch" target="_blank" class="github-icon">
-                    <i class="fa-brands fa-github"></i>
-                  </a>
-                </p>
-                <br><br>
-                <p style="text-align:justify">
-                  I am a fifth-year PhD candidate in computer science at <a href="https://tech.cornell.edu/" target="_blank" class="normal">Cornell Tech</a> and the 
-                  Weill Cornell Medicine <a href="https://phs.weill.cornell.edu/research-collaboration/our-divisions/institute-artificial-intelligence-digital-health" target="_blank" class="normal">Institute of AI for Digital Health</a>. My doctoral research has been supported by the NSF Graduate Research Fellowship, Cornell's Presidential Life Science Fellowship, and the <a href="https://dli.tech.cornell.edu/" target="_blank" class="normal">Digital Life Initiative</a>. I am advised by <a href="https://wcm-wanglab.github.io/" target="_blank" class="normal">Dr. Fei Wang</a>, 
-                  <a href="https://www.cs.cornell.edu/~kuleshov/" target="_blank" class="normal">Dr. Volodymyr Kuleshov</a>, and 
-                  <a href="https://kyra-gan.github.io/" target="_blank" class="normal">Dr. Kyra Gan</a>. Previously, I was a research intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/" target="_blank" class="normal">Microsoft Research Cambridge</a>. For the spring of 2026, I will be a resident at the Isaac Newton Institute for Mathematical Sciences at the 
-                  <a href="https://www.newton.ac.uk/" target="_blank" class="normal"> University of Cambridge</a>. 
-                  <br>
-                  <br>
-                  I am interested in machine learning for reasoning and decision-making under uncertainty. This includes open problems in <a href="https://jmaasch.github.io/reasoning/" class="normal" target="_blank">AI reasoning</a>: building reasoning machines, what that requires in theory and practice, and its consequences for society. I approach these problems primarily through the theoretical frameworks of <a href="https://jmaasch.github.io/pgm/" class="normal" target="_blank">probabilistic and causal graphical modeling</a>.
-                </p>
-                  <!--
-                  <a href="https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&authuser=1" target="_blank" class="scholar-icon">
-                      <i class="ai ai-google-scholar"></i>
-                  </a>&nbsp;&nbsp;
-                  -->
-                  <!--
-                  <a href="data/cv.pdf" target="_blank">CV</a> &nbsp;|&nbsp;
-                  <a href="https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a> &nbsp;|&nbsp;
-                  <a href="https://www.linkedin.com/in/jmaasch/" target="_blank">LinkedIn</a>
-                  -->
-              </td>
-              <td style="padding:2.5%;width:40%;max-width:40%">
-                <a href="data/razel.png"><img style="width:100%;max-width:100%" alt="Jacqueline Maasch headshot" src="data/razel.png" class="hoverZoomLink"></a>
-              </td>
-            </tr>
-          </tbody></table>
+<section class="hero">
+  <div class="hero-body">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths is-centered has-text-centered">
 
-          
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:0;margin-top:-15px;"><tbody>
-            <!--
-            <tr>
-              <td style="padding:20px;width:100%;vertical-align:middle;margin-bottom:-15px;margin-top:0;">
-                <h2>NEWS</h2>
-                <br>
-                I will be entering the job market in 2026. If you are interested in collaborating or would like to schedule a meeting at NeurIPS 2025, please <a href="https://www.linkedin.com/in/jmaasch/" target="_blank" class="normal">reach out</a>.    
-              </td>
-            </tr>
-            -->
-              
-            <tr>
-            <td style="padding:20px;width:100%;vertical-align:middle;margin-bottom:-15px;margin-top:0;">
-              <!-- RECENT WORK 
-               Achieving AI reasoning will open the doors to countless applications in science and medicine.
-               My research is motivated by urgent societal problems, including drug discovery and fairness in healthcare. Recent contributions include:
-               -->
-              <h2>RECENT WORK</h2>
-              <p style="text-align:justify">
-              </p>
-              <p style="text-align:justify">
-                <ul style="line-height:1.75;list-style-type:'&#10022;&#xFE0E; ';">
-                  <li>Causal reasoning. <a href="http://arxiv.org/abs/2503.04556" class="button" target="_blank">ICML 2025</a> <a href="http://arxiv.org/abs/2509.03636" class="button" target="_blank">NeurIPS LAW 2025 (spotlight)</a> <a href="https://openreview.net/pdf?id=VVixJ9QavY" class="button" target="_blank">ICLR 2025 (oral – top 1.8%)</a> </li>
-                  <li>Causal structure learning. <a href="https://arxiv.org/abs/2310.17816" class="button" target="_blank">UAI 2024</a> <a href="https://arxiv.org/pdf/2405.14496" class="button" target="_blank">NeurIPS 2024</a> <a href="https://arxiv.org/abs/2405.14848" class="button" target="_blank">AAAI 2025</a></li>
-                  <li>The automation and acceleration of scientific discovery and clinical research. <a href="https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00296-2" class="button" target="_blank">Cell H&M 2023</a></li>
-                </ul>
-              </p>
-              <br>
-              <!-- PUBLICATIONS --> 
-              A subset of my lead-author, peer-reviewed papers are highlighted below. My full bibliography is on <a href="https://scholar.google.com/citations?hl=en&user=5l9n9J8AAAAJ&view_op=list_works&authuser=1&sortby=pubdate" target="_blank" class="normal">Google Scholar</a>.
-            </td>
-          </tr>
-        </tbody></table>
+        <!-- TITLE -->
 
-          <!-- CAUSAL ARC -->
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-top:-15px;"><tbody>
-            <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <img style="vertical-align:middle" src='data/pch_stairs.png' width="180">
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-            <p style="text-align:justify">
-            <b>CausalARC: Abstract Reasoning with Causal World Models.</b>
-            J Maasch, J Kalantari, K Khezeli. <i>Spotlight paper.</i>
-            </p> 
-              <p style="text-align:justify">
-                <b>[tl;dr]</b>  An experimental testbed for reasoning under distribution shift with few-shot learning and test-time adaptation.
-              </p>
-              <p>
-                <a href="https://sites.google.com/view/law-2025/home?authuser=0" class="venue" target="_blank">NeurIPS LAW 2025</a>
-              &nbsp;&#10022;&#xFE0E;&nbsp;
-                <a href="http://arxiv.org/abs/2509.03636" class="button" target="_blank">arxiv</a>&nbsp;
-                <a href="https://jmaasch.github.io/carc/" class="button" target="_blank">website</a>&nbsp;
-                <a href="https://jmaasch.github.io/carc/static/pdfs/causal_arc_amazon.pdf" class="button" target="_blank">Amazon Trusted AI</a>&nbsp;
-                <!--
-                <a href="https://github.com/jmaasch/causal_arc" class="button" target="_blank">code</a>&nbsp;
-                <a href="data/causal_arc_poster.pdf" class="button" target="_blank">poster</a>&nbsp;
-                -->
-                <a href="https://huggingface.co/datasets/jmaasch/causal_arc" class="button" target="_blank">&#129303; hf - 550+ downloads</a>
-              </p>
-            </td>
-            </tr>
-
-          <!-- PGM -->
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-top:-15px;"><tbody>
-            <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <img style="vertical-align:middle" src='data/pgm_website_figure.png' width="180">
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-            <p style="text-align:justify">
-            <b>Probabilistic Graphical Models: A Concise Tutorial.</b>
-            J Maasch, 
-            <a href="https://willieneis.github.io/" class="normal" target="_blank">W Neiswanger</a>,
-            <a href="https://cs.stanford.edu/~ermon/" class="normal" target="_blank">S Ermon</a>, 
-            <a href="https://www.cs.cornell.edu/~kuleshov/" class="normal" target="_blank">V Kuleshov</a>. 
-            </p> 
-              <p style="text-align:justify">
-                <b>[tl;dr]</b> This 200-page tutorial reviews the theory and methods of representation, learning, and inference in probabilistic graphical modeling.
-              </p>
-              <p>
-                <a href="" class="venue">under review</a>
-                &nbsp;&#10022;&#xFE0E;&nbsp;
-                <a href="https://arxiv.org/pdf/2507.17116" class="button" target="_blank">arxiv</a>&nbsp;
-                <a href="https://jmaasch.github.io/pgm/" class="button" target="_blank">website</a>
-              </p>
-            </td>
-            </tr>
-
-          <!-- MSR -->
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-top:-15px;"><tbody>
-            <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <img style="vertical-align:middle" src='data/ccr.png' width="180">
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-            <p style="text-align:justify">
-            <b>Compositional Causal Reasoning Evaluation in Language Models.</b>
-            J Maasch, 
-            <a href="https://alihanhyk.github.io/" class="normal" target="_blank">A Hüyük</a>, 
-            <a href="https://scholar.google.co.uk/citations?user=osgiI-AAAAAJ&hl=en" class="normal" target="_blank">X Xu</a>, 
-            <a href="https://www.microsoft.com/en-us/research/people/adityan/?from=https://research.microsoft.com/~adityan&type=exact" class="normal" target="_blank">A Nori</a>, 
-            <a href="https://javiergonzalezh.github.io/" class="normal" target="_blank">J González</a>. 
-            </p> 
-              <p style="text-align:justify">
-                <b>[tl;dr]</b>  A novel evaluation framework reveals taxonomically distinct error patterns when LLMs reason over the composition of causal measures.
-              </p>
-              <p>
-                <a href="https://icml.cc/" class="venue" target="_blank">ICML 2025</a>
-              &nbsp;&#10022;&#xFE0E;&nbsp;
-                <a href="http://arxiv.org/abs/2503.04556" class="button" target="_blank">arxiv</a>&nbsp;
-                <a href="https://jmaasch.github.io/ccr/" class="button" target="_blank">website</a>&nbsp;
-                <a href="https://github.com/jmaasch/compositional_causal_reasoning" class="button"  target="_blank">code</a>&nbsp;
-                <a href="data/ccr_icml_poster.pdf" class="button" target="_blank">poster</a>&nbsp;
-                <a href="data/ccr_slides.pdf" class="button" target="_blank">slides</a>&nbsp;
-                <a href="https://huggingface.co/datasets/jmaasch/compositional_causal_reasoning" class="button" target="_blank">&#129303; hf - 2.3k+ downloads</a>
-              </p>
-            </td>
-            </tr>
-          
-
-          <!-- LD3 -->
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-          <tr>
-          <td style="padding:20px;width:25%;vertical-align:middle">
-            <img style="vertical-align:middle" src='data/ld3.png' width="180">
-          </td>
-          <td style="padding:20px;width:75%;vertical-align:middle">
-          <p style="text-align:justify">
-          <b> Local Causal Discovery for Structural Evidence of Direct Discrimination.</b> 
-          J Maasch, 
-          <a href="https://kyra-gan.github.io/" class="normal" target="_blank">K Gan</a>, 
-          <a href="https://vxychen.github.io/"  class="normal" target="_blank">V Chen</a>, 
-          <a href="https://www.mit.edu/~agniorf/" class="normal" target="_blank">A Orfanoudaki</a>, 
-          <a href="https://nakpinar.github.io/"   class="normal" target="_blank">N Akpinar</a>, 
-          <a href="https://wcm-wanglab.github.io/" class="normal" target="_blank">F Wang</a>.
-          </p> 
-          <p style="text-align:justify">
-              <b>[tl;dr]</b> Local structure learning facilitates causal fairness analysis in complex decision systems, as illustrated by a real-world case study on organ transplant allocation.
-          </p>
-          <!-- 
-          <p style="text-align:justify">
-            A preliminary version of this work was presented as an invited talk at INFORMS 2024.
-          </p> 
-          -->
-          <p>
-            <a href="https://aaai.org/conference/aaai/aaai-25/" class="venue" target="_blank">AAAI 2025</a>
-            &nbsp;&#10022;&#xFE0E;&nbsp;
-            <a href="https://arxiv.org/abs/2405.14848" class="button"  target="_blank">arXiv</a>&nbsp;
-            <a href="https://github.com/jmaasch/LD3" class="button"  target="_blank">code</a>&nbsp;
-            <a href="data/aaai_ld3_poster.pdf" class="button" target="_blank">poster</a>&nbsp;
-            <a href="data/ld3_slides.pdf" class="button" target="_blank">slides</a>
-          </p>
-          </td>
-          </tr>
-
-          <!-- LDP -->
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-          <tr>
-          <td style="padding:20px;width:25%;vertical-align:middle">
-            <img style="vertical-align:middle" src='data/ldp2.png' width="180">
-          </td>
-          <td style="padding:20px;width:75%;vertical-align:middle">
-          <p style="text-align:justify">
-          <b>Local Discovery by Partitioning: Polynomial-Time Causal Discovery Around Exposure-Outcome Pairs.</b>
-          J Maasch, 
-          <a href="https://scholar.google.com/citations?hl=zh-CN&user=PtTBMhUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">W Pan</a>, 
-          <a href="https://shantanu95.github.io/" class="normal" target="_blank">S Gupta</a>, 
-          <a href="https://www.cs.cornell.edu/~kuleshov/" class="normal" target="_blank">V Kuleshov</a>, 
-          <a href="https://kyra-gan.github.io/" class="normal" target="_blank">K Gan</a>, 
-          <a href="https://wcm-wanglab.github.io/" class="normal" target="_blank">F Wang</a>.
-          </p>
-            <p style="text-align:justify">
-              <b>[tl;dr]</b> Local causal discovery enables efficient automated covariate selection under limited prior knowledge with guarantees on correctness.
-            </p>
-          <!--
-          <p style="text-align:justify">
-            Preliminary versions were presented as a poster at the NeurIPS 2023 Causal Representation Learning Workshop and as an invited talk at POMS 2024.
-          </p>  
-          -->
-          <p>
-            <a href="https://www.auai.org/uai2024/" class="venue" target="_blank">UAI 2024</a>
-            &nbsp;&#10022;&#xFE0E;&nbsp;
-            <a href="https://arxiv.org/abs/2310.17816" class="button" target="_blank">arXiv</a>&nbsp;
-            <a href="https://github.com/jmaasch/ldp" class="button" target="_blank">code</a>&nbsp;
-            <a href="data/ldp_uai_poster.pdf" class="button" target="_blank">poster</a>&nbsp;
-            <a href="data/ldp_slides.pdf" class="button" target="_blank">slides</a>
-          </p>
-          </td>
-          </tr>
-
-        <!-- PANCLEAVE -->
-        <tr>
-        <td style="padding:20px;width:25%;vertical-align:middle">
-          <img src='data/peptide.png' width="180">
-        </td>
-        <td style="padding:20px;width:75%;vertical-align:middle">
-          <p style="text-align:justify">
-            <b>Molecular de-extinction of ancient antimicrobial peptides enabled by machine learning.</b> 
-            J Maasch*, 
-            <a href="https://scholar.google.com.br/citations?user=N-Z6jh8AAAAJ&hl=en" class="normal" target="_blank">M Torres*</a>, 
-            <a href="https://compbiochem.colostate.edu/the-team/" class="normal"  target="_blank">M Melo</a>, 
-            <a href="https://delafuentelab.seas.upenn.edu/" class="normal" target="_blank">C de la Fuente</a>.
-          </p>
-          <p style="text-align:justify">
-            <b>[tl;dr]</b> Computational proteolysis guides bioinspired prospection for encrypted antimicrobial peptides that display <i>in vitro</i> and <i>in vivo</i> activity with low host toxicity.
-          </p>
-          <p>
-            <a href="https://www.cell.com/cell-host-microbe/home" class="venue" target="_blank">Cell H&M 2023</a>
-            &nbsp;&#10022;&#xFE0E;&nbsp;
-            <a href="https://doi.org/10.1016/j.chom.2023.07.001" class="button" target="_blank">paper</a>&nbsp;
-            <a href="https://gitlab.com/machine-biology-group-public/pancleave" class="button" target="_blank">code</a>&nbsp;
-            <a href="https://www.npr.org/2023/10/30/1198908442/antibiotic-resistance-neanderthal-denisovan-artificial-intelligence" class="button" target="_blank">npr</a>&nbsp;
-            <a href="https://doi.org/10.1038/d41586-023-02403-0" class="button" target="_blank">nature news</a>&nbsp;
-            <a href="https://www.smithsonianmag.com/smart-news/scientists-turn-to-human-ancestors-dna-in-search-for-new-antibiotics-180982662/" class="button" target="_blank">smithsonian</a>&nbsp;
-            <a href="https://edition.cnn.com/2023/12/15/health/superbugs-antibiotics-neanderthal-woolly-mammoth-scn/index.html" class="button" target="_blank">cnn</a>&nbsp;
-            <a href="https://www.vox.com/future-perfect/23811682/ai-neanderthal-antibiotics-extinction" class="button" target="_blank">vox</a>
-          </p>
-        </td>
-        </tr>
-        </tbody></table>
-
-        <!-- CONTACT -->
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-        <tr>
-        <td style="padding:20px;width:100%;vertical-align:middle">
-        <h2>CONTACT</h2>
-        <p style="text-align:justify">
-          <b>Preferred contact:</b> In general, I can be reached through <a href="https://www.linkedin.com/in/jmaasch/" target="_blank" class="normal">LinkedIn</a>.
-          <br>
-          <br>
-          <b>Pronouns:</b> <a href="https://svelte-pronounisland.vercel.app/they/them/their/theirs/themself" target="_blank" class="normal">they</a> or she.
-          <br>
-          If you are new to nonbinary pronouns, here are some examples for how to use them in a grammatical way from <a href="https://www.merriam-webster.com/words-at-play/singular-nonbinary-they" target="_blank" class="normal">Merriam Webster</a>, the <a href="https://style.mla.org/using-singular-they/?gclid=Cj0KCQjw_O2lBhCFARIsAB0E8B97PQaQW8jSwfSO2NL8u2kC3AG7hl0IwNJFtssYRmESUNGeB3SBKocaAlh8EALw_wcB" target="_blank" class="normal">MLA Style Guide</a>, and the <a href="https://apastyle.apa.org/blog/singular-they" target="_blank" class="normal">APA Style Guide</a>. <font size="3"> ☺ </font>
-        </p>
         <p style="text-align:center">
-          <pre><code class="bash">echo @ | sed 's/^/maasch/' | sed 's/$/cs.cornell.edu/'</code></pre>
+          <img style="vertical-align:middle" src='static/images/bi_medium_1.png' width="100%" class="center">
         </p>
-      </td>
-      </tr>
-    </tbody></table>
+        <br>
+        <br>
+
+        <!-- NAME / HEADSHOT -->
+
+        <h1 class="title is-1 publication-title">JACQUELINE R. M. A. MAASCH</h1>
+
+        <p style="text-align:center">
+          <img style="vertical-align:middle" src='static/data/headshot_ellipse.jpg' width="20%" class="center">
+        </p>
+        <br>
+
+        <!-- LINKS -->
+
+        <p class="name" style="text-align: center;">
+          <a href="data/cv.pdf" target="_blank" class="cv-icon">
+              <i class="ai ai-cv"></i>
+          </a>&nbsp;&nbsp;&nbsp;
+          <a href="https://www.linkedin.com/in/jmaasch/" target="_blank" class="linkedin-icon">
+              <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+          </a>&nbsp;&nbsp;&nbsp;
+          <a href="https://scholar.google.com/citations?hl=en&user=5l9n9J8AAAAJ&view_op=list_works&authuser=1&sortby=pubdate" target="_blank" class="scholar-icon">
+            <!--<i class="fa-solid fa-graduation-cap"></i>-->
+            <i class="ai ai-google-scholar"></i>
+          </a>&nbsp;&nbsp;&nbsp;
+          <a href="https://github.com/jmaasch" target="_blank" class="github-icon">
+            <i class="fa-brands fa-github"></i>
+          </a>
+        </p>
+
+        <p style="text-align:center">
+          <img style="vertical-align:middle" src='static/images/bi_small_1.png' width="100%" class="center">
+        </p>
+        <br>
+
+        <!-- ArXiv abstract Link
+        <span class="link-block">
+          <a href="static/pdfs/position.pdf" target="_blank"
+          class="external-link button is-normal is-rounded is-light">
+          <span class="icon">
+            <i class="ai ai-arxiv"></i>
+          </span>
+          <span>arXiv</span>
+        </a>
+        </span>
+         -->
+
+        <!-- Paper PDF Link -->
+        <span class="link-block">
+          <a href="static/pdfs/position.pdf" target="_blank"
+          class="external-link button is-normal is-rounded is-light">
+          <span class="icon">
+            <i class="fas fa-file-pdf"></i>
+          </span>
+          <span>Paper</span>
+        </a>
+        </span>
+
+        <!-- Github link -->
+        <span class="link-block">
+          <a href="https://github.com/jmaasch/valid_reasoning" target="_blank"
+          class="external-link button is-normal is-rounded is-light">
+          <span class="icon">
+            <i class="fab fa-github"></i>
+          </span>
+          <span>Code</span>
+        </a>
+        </span>
+
+        <br>
+        <br>
+
+        <p style="text-align:center">
+          <img style="vertical-align:middle" src='static/images/bi_small_2.png' width="100%" class="center">
+        </p>
+
+        <div class="content has-text-justified">
+
+          <br>
+          <br>
+
+          <!-- BIO -->
+
+          <div class="box">
+            <b>Bio.</b> I am a fifth-year PhD candidate in computer science at <a href="https://tech.cornell.edu/" target="_blank" class="normal">Cornell Tech</a> and the 
+            Weill Cornell Medicine <a href="https://phs.weill.cornell.edu/research-collaboration/our-divisions/institute-artificial-intelligence-digital-health" target="_blank" class="normal">Institute of AI for Digital Health</a>. My doctoral research has been supported by the NSF Graduate Research Fellowship, Cornell's Presidential Life Science Fellowship, and the <a href="https://dli.tech.cornell.edu/" target="_blank" class="normal">Digital Life Initiative</a>. I am advised by <a href="https://wcm-wanglab.github.io/" target="_blank" class="normal">Dr. Fei Wang</a>, 
+            <a href="https://www.cs.cornell.edu/~kuleshov/" target="_blank" class="normal">Dr. Volodymyr Kuleshov</a>, and 
+            <a href="https://kyra-gan.github.io/" target="_blank" class="normal">Dr. Kyra Gan</a>. Previously, I was a research intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/" target="_blank" class="normal">Microsoft Research Cambridge</a>. For the spring of 2026, I will be a resident at the Isaac Newton Institute for Mathematical Sciences at the <a href="https://www.newton.ac.uk/" target="_blank" class="normal"> University of Cambridge</a>. 
+          </div>
+
+           <!-- INTERESTS -->
+
+          <div class="box">
+            <b>Research focus.</b> I am interested in machine learning for reasoning and decision-making under uncertainty. This includes open problems in <a href="https://jmaasch.github.io/reasoning/" class="normal" target="_blank">AI reasoning</a>: building reasoning machines, what that requires in theory and practice, and its consequences for society. I approach these problems primarily through the theoretical frameworks of <a href="https://jmaasch.github.io/pgm/" class="normal" target="_blank">probabilistic and causal graphical modeling</a>.
+          </div>
+
+          <!-- PUBLICATIONS -->
+
+          <div class="column has-text-centered">
+
+            <h2 class="title">RECENT WORK</h2>
+
+          </div>
+
+          <div class="box">
+
+            <!-- CAUSAL ARC -->
+            
+            <table style="width:100%">
+              <tr>
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <img style="vertical-align:middle" src='static/data/pch_stairs.png' width="180">
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <p style="text-align:justify">
+                  <b>CausalARC: Abstract Reasoning with Causal World Models.</b>
+                  J Maasch, J Kalantari, K Khezeli. <i>Spotlight.</i>
+                  </p> 
+                    <p>
+                      <a href="https://sites.google.com/view/law-2025/home?authuser=0" class="venue" target="_blank">NeurIPS LAW 2025</a>
+                    &nbsp;&#10022;&#xFE0E;&nbsp;
+                      <a href="http://arxiv.org/abs/2509.03636" class="button" target="_blank">arxiv</a>&nbsp;
+                      <a href="https://jmaasch.github.io/carc/" class="button" target="_blank">website</a>&nbsp;
+                      <a href="https://jmaasch.github.io/carc/static/pdfs/causal_arc_amazon.pdf" class="button" target="_blank">Amazon Trusted AI</a>&nbsp;
+                      <!--
+                      <a href="https://github.com/jmaasch/causal_arc" class="button" target="_blank">code</a>&nbsp;
+                      <a href="data/causal_arc_poster.pdf" class="button" target="_blank">poster</a>&nbsp;
+                      -->
+                      <a href="https://huggingface.co/datasets/jmaasch/causal_arc" class="button" target="_blank">&#129303; hf - 550+ downloads</a>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+
+              <!-- CCR -->
+            
+            <table style="width:100%">
+              <tr>
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <img style="vertical-align:middle" src='static/data/ccr.png' width="180">
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <p style="text-align:justify">
+                    <b>Compositional Causal Reasoning Evaluation in Language Models.</b>
+                    J Maasch, 
+                    <a href="https://alihanhyk.github.io/" class="normal" target="_blank">A Hüyük</a>, 
+                    <a href="https://scholar.google.co.uk/citations?user=osgiI-AAAAAJ&hl=en" class="normal" target="_blank">X Xu</a>, 
+                    <a href="https://www.microsoft.com/en-us/research/people/adityan/?from=https://research.microsoft.com/~adityan&type=exact" class="normal" target="_blank">A Nori</a>, 
+                    <a href="https://javiergonzalezh.github.io/" class="normal" target="_blank">J González</a>. 
+                    </p> 
+                      <p>
+                        <a href="https://icml.cc/" class="venue" target="_blank">ICML 2025</a>
+                      &nbsp;&#10022;&#xFE0E;&nbsp;
+                        <a href="http://arxiv.org/abs/2503.04556" class="button" target="_blank">arxiv</a>&nbsp;
+                        <a href="https://jmaasch.github.io/ccr/" class="button" target="_blank">website</a>&nbsp;
+                        <a href="https://github.com/jmaasch/compositional_causal_reasoning" class="button"  target="_blank">code</a>&nbsp;
+                        <a href="data/ccr_icml_poster.pdf" class="button" target="_blank">poster</a>&nbsp;
+                        <a href="data/ccr_slides.pdf" class="button" target="_blank">slides</a>&nbsp;
+                        <a href="https://huggingface.co/datasets/jmaasch/compositional_causal_reasoning" class="button" target="_blank">&#129303; hf - 2.3k+ downloads</a>
+                      </p>
+                  </td>
+                </tr>
+              </table>
+
+          </div>
+          
+
+          <br>
+          <br>
+          <br>
+
+          <p style="text-align:center">
+            <img style="vertical-align:middle" src='static/images/bi_small_3.png' width="100%" class="center">
+          </p>
 
 
-      <!-- FOOTER -->
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-            <tr>
-              <td style="padding:20px">
-                <br>
-                <!--
-                <p style="text-align:right;font-size:small;color:#d1cfc9;">
-                  <i>
-                    I like to think <br>
-                    (it has to be!) <br>
-                    of a cybernetic ecology <br>
-                    where we are free of our labors <br>
-                    and joined back to nature, <br>
-                    returned to our mammal <br>
-                    brothers and sisters, <br>
-                    and all watched over <br>
-                    by machines of loving grace. <br>
-                  </i>
-                – <a font size="1" href="https://allpoetry.com/All-Watched-Over-By-Machines-Of-Loving-Grace">R. Brautigan (1967)</a>
-                <br>
-                <br>
-                  Updated July 2023. This website was adapted from this <a href="https://github.com/jonbarron/jonbarron_website">source code</a>.
-                </p>
-              -->
-              <p style="text-align:right;font-size:small">
-                Updated November 2025. This website was adapted by J. Maasch from this <a href="https://github.com/jonbarron/jonbarron_website" target="_blank" class="normal">source code</a>.
-              </p>
-              </td>
-            </tr>
-          </tbody></table>
-        </td>
-      </tr>
-    </table>
-  </body>
+
+          <p style="text-align:center">
+            <img style="vertical-align:middle" src='static/images/bi_medium_4.png' width="100%" class="center">
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+
+
+
+<!--BibTex citation 
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title" id="bibtex">How to cite this work</h2>
+      Please cite our work using the following BibTeX.<br><br>
+      <pre><code>
+      @misc{lawrence2026reasoning,
+        title={Position: Beyond Reasoning Zombies — AI Reasoning Requires Process Validity},
+        author={Lawrence, Rachel and Maasch, Jacqueline},
+        url={https://jmaasch.github.io/reasoning/static/pdfs/position.pdf}
+      }
+      </code></pre>
+    </div>
+</section>
+-->
+
+
+<!-- Statcounter tracking code -->
+  
+<!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+
+<!-- End of Statcounter Code -->
+
+</body>
 </html>
-
-
