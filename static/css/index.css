@@ -9,6 +9,9 @@
   --bordercol: #DCDCDC;
 }
 
+table, th, td, tr {
+  border: 1px solid white;
+}
 
 /* Make some images black and white */
 .bw {
