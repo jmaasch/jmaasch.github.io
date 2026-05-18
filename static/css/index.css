@@ -11,6 +11,7 @@
 
 table, th, td, tr {
   border: 1px solid white;
+  color: var(--maincol);
 }
 
 /* Make some images black and white */
