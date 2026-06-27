@@ -467,7 +467,22 @@ p {
   color: var(--maincol);
 }
 
+/* list text color */
+ol li {
+  color: var(--maincol);
+}
 
+ol li::marker {
+  color: var(--pubcol); 
+}
+
+ul li {
+  color: var(--maincol);
+}
+
+ul li::marker {
+  color: var(--pubcol); 
+}
 
 
 
